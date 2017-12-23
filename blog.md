@@ -8,7 +8,7 @@ order: 1
 
 ---
 
-Welcome to my blog. Below you will find my posts on some of my interests - including applied statistical modelling, R, machine learning, and data visualization. 
+Welcome to my blog, where I hopefully intend to post about statistical tools, as well as current issues in invasion biogeography, species distribution modelling, and the state of equity in ecology. Haven't done any of that yet, though.
 
 <h1 class="page-heading">Posts</h1>
 
