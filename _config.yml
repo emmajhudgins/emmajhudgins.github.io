@@ -15,6 +15,7 @@ url: "" # the base hostname & protocol for your site
 twitter_username: emmajhudgins
 github_username:  emmajhudgins
 
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
