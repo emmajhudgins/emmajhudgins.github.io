@@ -7,7 +7,7 @@
 
 # Site settings
 title: Emma Hudgins
-email: emma[dot]hudgins[at]mail[dot]mcgill[dot]ca
+email: emma.hudgins@mail.mcgill.ca
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
