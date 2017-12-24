@@ -23,20 +23,20 @@
           {% if site.twitter_username %}
           <li>
             {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          
-            {% if site.google_scholar_username %}
-          <li>
-            <a href="https://scholar.google.com/citations?user={{ site.google_scholar_username }}">
-            <i class="ai ai-google-scholar"></i> Google Scholar
-    </a>
-  </li>
-          </li>
-          
+          </li>  
           {% endif %}
         </ul>
       </div>
-
+      
+      <ul>    
+      {% if site.google_scholar_username %}
+          <li>
+            <a href="https://scholar.google.com/citations?user={{ site.google_scholar_username }}">
+            <i class="ai ai-google-scholar"></i> Google Scholar
+          </a>
+          </li>
+      </ul>
+      
       <div class="footer-col footer-col-3">
         <p>{{ site.description }}</p>
       </div>
