@@ -9,7 +9,7 @@ permalink: /cv
 ---
 
 Education:
-*Establishment: **McGill University** (September 2015 - present)
+* Establishment: **McGill University** (September 2015 - present)
 Program of Study: PhD in Biology
 Current GPA: 4.00
 Funding Earned: NSERC Alexander Graham Bell CGS-M ($17,500)
