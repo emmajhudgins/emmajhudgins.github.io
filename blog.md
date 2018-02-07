@@ -4,11 +4,11 @@ layout: page
 title: "Blog"
 permalink: /blog
 nav: true
-order: 0
+order: 1
 
 ---
 
-Welcome to my blog, where I hopefully intend to post about statistical tools, as well as current issues in invasion biogeography, species distribution modelling, and the state of equity in ecology. Haven't done any of that yet, though.
+Welcome to my blog, where I hopefully intend to post about statistical tools, as well as current issues in invasion biogeography, species distribution modelling, and the state of equity in ecology. 
 
 <h1 class="page-heading">Posts</h1>
 
