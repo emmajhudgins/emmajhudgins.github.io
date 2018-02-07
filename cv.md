@@ -1,8 +1,8 @@
 ---
 
 layout: page
-title: "Publications"
-permalink: /publications
+title: "CV"
+permalink: /cv
 nav: true
 order: 2
 
