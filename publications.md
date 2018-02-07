@@ -10,13 +10,13 @@ order: 2
 
 **Publications**
 
-* Hudgins, E.J., Liebhold, A.M., & Leung, B. Comparing generalized to customized models for United States invasive forest pests. In prep.
+* **Hudgins, E.J.**, Liebhold, A.M., & Leung, B. Comparing generalized to customized models for United States invasive forest pests. In prep.
 
-* Hudgins, E.J., Liebhold, A.M., & Leung, B. A general predictive model for the spread of invasive forest pests in the United States. Ecology Letters (2017) 20(4): 426-435.
+* **Hudgins, E.J.**, Liebhold, A.M., & Leung, B. A general predictive model for the spread of invasive forest pests in the United States. Ecology Letters (2017) 20(4): 426-435.
 
-* Iacarella, J.C., Dick, J.T.A., Hudgins, E., & Ricciardi, A. Predatory behaviour of an invasive amphipod in response to the presence of conspecifics and predation risk. Canadian Journal of Fisheries and Aquatic Sciences (2017) 75(1): 131-140
+* Iacarella, J.C., Dick, J.T.A., **Hudgins, E.J.**, & Ricciardi, A. Predatory behaviour of an invasive amphipod in response to the presence of conspecifics and predation risk. Canadian Journal of Fisheries and Aquatic Sciences (2017) 75(1): 131-140
 
-* Hudgins, J., Hudgins, E.J., Ali, K., & Mancini, A. Citizen science surveys elucidate key foraging and nesting habitat for two endangered marine turtle species within the Republic of Maldives. Herpetology Notes 10: 463-471.
+* Hudgins, J.A., **Hudgins, E.J.**, Ali, K., & Mancini, A. Citizen science surveys elucidate key foraging and nesting habitat for two endangered marine turtle species within the Republic of Maldives. Herpetology Notes 10: 463-471.
 
 
 
