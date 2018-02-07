@@ -7,5 +7,5 @@ nav: true
 order: 3
 
 ---
-[PDF]({{ site.url  }}/assets/EmmaHudginsCV2018.pdf)
+([PDF]({{ site.url  }}/assets/EmmaHudginsCV2018.pdf))
 
