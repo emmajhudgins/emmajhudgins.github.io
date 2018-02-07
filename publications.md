@@ -8,4 +8,4 @@ order: 2
 
 ---
 
-Coming soon.
+CV PDF ([PDF]({{ site.url   }}/assets/EmmaHudginsCV2018.pdf))
