@@ -7,5 +7,4 @@ nav: true
 order: 2
 
 ---
-
-CV PDF ([PDF]({{ site.url   }}/assets/EmmaHudginsCV2018.pdf))
+* CV([PDF]({{ site.url   }}/assets/EmmaHudginsCV2018.pdf))
