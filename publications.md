@@ -34,6 +34,6 @@ order: 2
 
 * **Hudgins, E.** Modelling invasive forest pest spread across the United States. Presented at McGill’s Honours Symposium, April 15th, 2015. (McGill Undergraduate Symposium – Honours work).
 
-* **Iacarella, J.C.**, Hudgins, E., Dick, J.T.A. & Ricciardi, A. Predatory behavior of an invasive amphipod (Gammarus pulex) in the presence of fish cues and conspecifics. Paper presented at the Canadian Aquatic Invasive Species Network Annual General Meeting, Gatineau, Ontario. April 2014. (National Conference – Independent Study Project work).
+* Iacarella, J.C., **Hudgins, E.**, Dick, J.T.A. & Ricciardi, A. Predatory behavior of an invasive amphipod (Gammarus pulex) in the presence of fish cues and conspecifics. Paper presented at the Canadian Aquatic Invasive Species Network Annual General Meeting, Gatineau, Ontario. April 2014. (National Conference – Independent Study Project work).
 
 
