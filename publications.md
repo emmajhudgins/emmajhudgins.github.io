@@ -10,9 +10,15 @@ order: 2
 
 **Publications**
 
+* **Hudgins, E.J.**, Liebhold, A.M., & Leung, B. Comparing generalized to customized models for United States invasive forest pests. In prep. Ecology.
+
+* Leung, B., **Hudgins, E. J.**, Potapova, Anna, & Ruiz-Jaen, Maria. A new baseline for countrywide α-diversity and species distributions: illustration using >6000 plant species in Panama. In review. Ecological Applications.
+
+* **Hudgins, E.J.**, Liebhold, A.M., & Leung, B. Corrigendum: Predicting the spread of all invasive forest pests in the United States. In press. Ecology Letters.
+
 * **Hudgins, E.J.**, Liebhold, A.M., & Leung, B. Comparing generalized to customized models for United States invasive forest pests. In prep.
 
-* **Hudgins, E.J.**, Liebhold, A.M., & Leung, B. A general predictive model for the spread of invasive forest pests in the United States. Ecology Letters (2017) 20(4): 426-435. ([full text](http://onlinelibrary.wiley.com/doi/10.1111/ele.12741/full))
+* **Hudgins, E.J.**, Liebhold, A.M., & Leung, B. Predicting the spread of all invasive forest pests in the United States. Ecology Letters (2017) 20(4): 426-435. ([full text](http://onlinelibrary.wiley.com/doi/10.1111/ele.12741/full))
 
 * Iacarella, J.C., **Hudgins, E.J.**, Dick, J.T.A., & Ricciardi, A. Predatory behaviour of an invasive amphipod in response to the presence of conspecifics and predation risk. Canadian Journal of Fisheries and Aquatic Sciences (2017) 75(1): 131-140.    ([full text](http://www.nrcresearchpress.com/doi/full/10.1139/cjfas-2016-0417))
 
@@ -21,6 +27,12 @@ order: 2
 
 
 **Presentations**
+
+* **Hudgins, E.J.**, Liebhold, A. M., & Leung B. Comparing generalized to customized models for United States invasive forest pests. Presented at the Ecological Society of America Annual Meeting, August 8th, 2018. (Regional Conference - Graduate work).
+
+* **Hudgins, E.J.**. Optimal control of the spread of invasive forest pests in the United States. Presented at the Mathematics of Biological Systems Management conference, University of Melbourne, April 6th, 2018. (International conference – Graduate work)
+
+* **Hudgins, E.J.**. Optimal control of the spread of invasive forest pests in the United States. Presented at the University of Queensland’s Centre for Biology and Conservation Science’s weekly seminar series, March 20th, 2018. (International invited seminar – Graduate work)
 
 * **Hudgins, E.J.**, Liebhold, A. M., & Leung B. Comparing generalized to customized models for United States invasive forest pests. Presented at the Quebec Centre for Biodiversity Science Symposium, December 15th, 2017 (Regional Conference - Graduate work).
 
@@ -34,6 +46,6 @@ order: 2
 
 * **Hudgins, E.J.** Modelling invasive forest pest spread across the United States. Presented at McGill’s Honours Symposium, April 15th, 2015. (McGill Undergraduate Symposium – Honours work).
 
-* Iacarella, J.C., **Hudgins, E.J.**, Dick, J.T.A. & Ricciardi, A. Predatory behavior of an invasive amphipod (Gammarus pulex) in the presence of fish cues and conspecifics. Paper presented at the Canadian Aquatic Invasive Species Network Annual General Meeting, Gatineau, Ontario. April 2014. (National Conference – Independent Study Project work).
+* Iacarella, J.C. (presenting author), **Hudgins, E.J.**, Dick, J.T.A. & Ricciardi, A. Predatory behavior of an invasive amphipod (Gammarus pulex) in the presence of fish cues and conspecifics. Paper presented at the Canadian Aquatic Invasive Species Network Annual General Meeting, Gatineau, Ontario. April 2014. (National Conference – Independent Study Project work).
 
 
