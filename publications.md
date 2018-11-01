@@ -10,7 +10,7 @@ order: 2
 
 **Publications**
 
-* **Hudgins, E.J.**, Liebhold, A.M., & Leung, B. Comparing generalized to customized models for United States invasive forest pests. In prep. Ecology.
+* **Hudgins, E.J.**, Liebhold, A.M., & Leung, B. Comparing generalized to customized models for United States invasive forest pests. In prep. ProcB.
 
 * Leung, B., **Hudgins, E. J.**, Potapova, Anna, & Ruiz-Jaen, Maria. A new baseline for countrywide α-diversity and species distributions: illustration using >6000 plant species in Panama. In review. Ecological Applications.
 
