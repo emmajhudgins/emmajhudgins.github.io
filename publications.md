@@ -26,7 +26,7 @@ order: 2
 
 **Presentations**
 
-* Hudgins, J.A., **Hudgins, E.J.**, How to get meaningful results from opportunistic photo-ID data. Presented at the 39th Annual Symposium on Sea Turtle Biology and Conversation, February 2nd, 2019. (International Conference - Side project).
+* Hudgins, J.A. (presenting author), **Hudgins, E.J.**, How to get meaningful results from opportunistic photo-ID data. Presented at the 39th Annual Symposium on Sea Turtle Biology and Conversation, February 2nd, 2019. (International Conference - Side project).
 
 * **Hudgins, E.J.**, Liebhold, A. M., & Leung B. Comparing generalized to customized models for United States invasive forest pests. Presented at the Quebec Centre for Biodiversity Science Symposium, December 12th, 2018 (Regional Conference - Graduate work).
 
@@ -35,6 +35,8 @@ order: 2
 * **Hudgins, E.J.**. Optimal control of the spread of invasive forest pests in the United States. Presented at the Mathematics of Biological Systems Management conference, University of Melbourne, April 6th, 2018. (International conference – Graduate work)
 
 * **Hudgins, E.J.**. Optimal control of the spread of invasive forest pests in the United States. Presented at the University of Queensland’s Centre for Biology and Conservation Science’s weekly seminar series, March 20th, 2018. (International invited seminar – Graduate work)
+
+* Hudgins, J.A. (presenting author), **Hudgins, E.J.**, Determining abundance, apparent survival, and temporary emigration for hawksbill turtles using opportunistic photo-ID data in the Republic of Maldives. Presented at the International Sea Turtle Symposium, February 18th, 2018. (International Conference - Side project).
 
 * **Hudgins, E.J.**, Liebhold, A. M., & Leung B. Comparing generalized to customized models for United States invasive forest pests. Presented at the Quebec Centre for Biodiversity Science Symposium, December 15th, 2017 (Regional Conference - Graduate work).
 
