@@ -26,6 +26,8 @@ order: 2
 
 **Presentations**
 
+* Hudgins, J.A., **Hudgins, E.J.**, How to get meaningful results from opportunistic photo-ID data. Presented at the 39th Annual Symposium on Sea Turtle Biology and Conversation, February 2nd, 2019. (International Conference - Side project).
+
 * **Hudgins, E.J.**, Liebhold, A. M., & Leung B. Comparing generalized to customized models for United States invasive forest pests. Presented at the Quebec Centre for Biodiversity Science Symposium, December 12th, 2018 (Regional Conference - Graduate work).
 
 * **Hudgins, E.J.**, Liebhold, A. M., & Leung B. Comparing generalized to customized models for United States invasive forest pests. Presented at the Ecological Society of America Annual Meeting, August 8th, 2018. (International Conference - Graduate work).
