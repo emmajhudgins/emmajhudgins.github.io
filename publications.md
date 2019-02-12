@@ -12,11 +12,9 @@ order: 2
 
 * **Hudgins, E.J.**, Liebhold, A.M., & Leung, B. Comparing generalized to customized models for United States invasive forest pests. In prep. J Ecol.
 
-* Leung, B., **Hudgins, E. J.**, Potapova, Anna, & Ruiz-Jaen, Maria. A new baseline for countrywide α-diversity and species distributions: illustration using >6000 plant species in Panama. Accepted. Ecological Applications.
+* Leung, B., **Hudgins, E. J.**, Potapova, Anna, & Ruiz-Jaen, Maria. A new baseline for countrywide α-diversity and species distributions: illustration using >6000 plant species in Panama. Accepted. Ecological Applications. ([full text](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.1866))
 
 * **Hudgins, E.J.**, Liebhold, A.M., & Leung, B. Corrigendum: Predicting the spread of all invasive forest pests in the United States. Ecology Letters (2017). ([full text](https://onlinelibrary.wiley.com/doi/10.1111/ele.13149))
-
-* **Hudgins, E.J.**, Liebhold, A.M., & Leung, B. Comparing generalized to customized models for United States invasive forest pests. In prep.
 
 * **Hudgins, E.J.**, Liebhold, A.M., & Leung, B. Predicting the spread of all invasive forest pests in the United States. Ecology Letters (2017) 20(4): 426-435. ([full text](http://onlinelibrary.wiley.com/doi/10.1111/ele.12741/full))
 
@@ -28,7 +26,9 @@ order: 2
 
 **Presentations**
 
-* **Hudgins, E.J.**, Liebhold, A. M., & Leung B. Comparing generalized to customized models for United States invasive forest pests. Presented at the Ecological Society of America Annual Meeting, August 8th, 2018. (Regional Conference - Graduate work).
+* **Hudgins, E.J.**, Liebhold, A. M., & Leung B. Comparing generalized to customized models for United States invasive forest pests. Presented at the Quebec Centre for Biodiversity Science Symposium, December 12th, 2018 (Regional Conference - Graduate work).
+
+* **Hudgins, E.J.**, Liebhold, A. M., & Leung B. Comparing generalized to customized models for United States invasive forest pests. Presented at the Ecological Society of America Annual Meeting, August 8th, 2018. (International Conference - Graduate work).
 
 * **Hudgins, E.J.**. Optimal control of the spread of invasive forest pests in the United States. Presented at the Mathematics of Biological Systems Management conference, University of Melbourne, April 6th, 2018. (International conference – Graduate work)
 
