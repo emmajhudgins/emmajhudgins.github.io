@@ -10,7 +10,7 @@ order: 2
 
 **Publications**
 
-* **Hudgins, E.J.**, Liebhold, A.M., & Leung, B. Comparing generalized to customized models for United States invasive forest pests. In review. Ecological Applications.
+* **Hudgins, E.J.**, Liebhold, A.M., & Leung, B. Comparing generalized to customized models for United States invasive forest pests. In revision. Ecological Applications.
 
 * Leung, B., **Hudgins, E. J.**, Potapova, Anna, & Ruiz-Jaen, Maria. A new baseline for countrywide α-diversity and species distributions: illustration using >6000 plant species in Panama. Ecological Applications (2019) 29(3): e01866. ([full text](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.1866))
 
@@ -25,6 +25,8 @@ order: 2
 
 
 **Presentations**
+
+* **Hudgins, E.J.**, Koch, Frank H., Ambrose, Mark J., Leung, Brian, Estimating the economic damages of United States invasive forest pests. Presented at the World Conference on Natural Resource Modelling, May 23rd, 2019 (International Conference – Graduate work). _Winner – Best Student Presentation._
 
 * Hudgins, J.A. (presenting author), **Hudgins, E.J.**, How to get meaningful results from opportunistic photo-ID data. Presented at the 39th Annual Symposium on Sea Turtle Biology and Conversation, February 2nd, 2019. (International Conference - Side project).
 
