@@ -10,9 +10,13 @@ order: 2
 
 **Publications**
 
-* **Hudgins, E.J.**, Liebhold, A.M., & Leung, B. Comparing generalized to customized models for United States invasive forest pests. In press. Ecological Applications.
+* Helmus, M .R., & **Hudgins, E. J.** Risk of cashing out the global invasion credit: An emerging agricultural pest in the U.S. heralds a new era of invasive species impacts. In prep. Science.
 
-* Leung, B., **Hudgins, E. J.**, Potapova, Anna, & Ruiz-Jaen, Maria. A new baseline for countrywide α-diversity and species distributions: illustration using >6000 plant species in Panama. Ecological Applications (2019) 29(3): e01866. ([full text](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.1866))
+* **Hudgins, E. J.**, Koch, F. H., Ambrose, M. J., & Leung, B. Estimating damage to urban trees from US invasive forest pests. In prep. PNAS.
+
+* **Hudgins, E.J.**, Liebhold, A.M., & Leung, B. Comparing generalized to customized models for United States invasive forest pests. In press. Ecological Applications. ([early view](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.1988))
+
+* Leung, B., **Hudgins, E. J.**, Potapova, A., & Ruiz-Jaen, M. A new baseline for countrywide α-diversity and species distributions: illustration using >6000 plant species in Panama. Ecological Applications (2019) 29(3): e01866. ([full text](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.1866))
 
 * **Hudgins, E.J.**, Liebhold, A.M., & Leung, B. Corrigendum: Predicting the spread of all invasive forest pests in the United States. Ecology Letters (2018) 21(11): 1752-1754. ([full text](https://onlinelibrary.wiley.com/doi/10.1111/ele.13149))
 
