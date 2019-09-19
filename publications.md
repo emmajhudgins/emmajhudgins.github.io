@@ -30,7 +30,7 @@ order: 2
 
 **Presentations**
 
-* **Hudgins, E.J.**, Koch, Frank H., Ambrose, Mark J., Leung, Brian, Estimating the economic damages of United States invasive forest pests. Presented at the World Conference on Natural Resource Modelling, May 23rd, 2019 (International Conference – Graduate work). _Winner – Best Student Presentation._
+* **Hudgins, E.J.**, Koch, F. H., Ambrose, M. J., Leung, B., Estimating the economic damages of United States invasive forest pests. Presented at the World Conference on Natural Resource Modelling, May 23rd, 2019 (International Conference – Graduate work). _Winner – Best Student Presentation._
 
 * Hudgins, J.A. (presenting author), **Hudgins, E.J.**, How to get meaningful results from opportunistic photo-ID data. Presented at the 39th Annual Symposium on Sea Turtle Biology and Conversation, February 2nd, 2019. (International Conference - Side project).
 
