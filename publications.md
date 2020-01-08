@@ -28,7 +28,7 @@ order: 2
 
 
 
-**Presentations**
+**Oral Presentations**
 
 * **Hudgins, E.J.**, Koch, F. H., Ambrose, M. J., Leung, B., Estimating the economic damages of United States invasive forest pests. Presented at the World Conference on Natural Resource Modelling, May 23rd, 2019 (International Conference – Graduate work). _Winner – Best Student Presentation._
 
@@ -57,5 +57,11 @@ order: 2
 * **Hudgins, E.J.** Modelling invasive forest pest spread across the United States. Presented at McGill’s Honours Symposium, April 15th, 2015. (McGill Undergraduate Symposium – Honours work).
 
 * Iacarella, J.C. (presenting author), **Hudgins, E.J.**, Dick, J.T.A. & Ricciardi, A. Predatory behavior of an invasive amphipod (Gammarus pulex) in the presence of fish cues and conspecifics. Paper presented at the Canadian Aquatic Invasive Species Network Annual General Meeting, Gatineau, Ontario. April 2014. (National Conference – Independent Study Project work).
+
+**Poster Presentations**
+
+* **Hudgins, E.J.**, Koch, F. H., Ambrose, M. J., Leung, B., Estimating the economic damages of United States invasive forest pests. Poster presented at Natural Resouces Canada’s Forest Pest Management Forum, December 3-5th, 2019 (National Conference – Graduate work).
+
+
 
 
