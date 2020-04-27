@@ -30,6 +30,9 @@ order: 2
 
 **Oral Presentations**
 
+* **Hudgins, E.J.** Predicting Forest Pests: Generalized models for invasive species establishment, spread, and economic impacts. Presented via Zoom on April 22nd, 2020. (PhD Exit Seminar) ([video](https://youtu.be/hceSoNLj4X4))([slides](https://drive.google.com/file/d/1cWsGwcmYP6OP44Yepc-Wbzv_8C4wifsu/view?usp=sharing))
+
+
 * **Hudgins, E.J.**, Koch, F. H., Ambrose, M. J., Leung, B., Estimating the economic damages of United States invasive forest pests. Presented at the World Conference on Natural Resource Modelling, May 23rd, 2019 (International Conference – Graduate work). _Winner – Best Student Presentation._
 
 * Hudgins, J.A. (presenting author), **Hudgins, E.J.**, How to get meaningful results from opportunistic photo-ID data. Presented at the 39th Annual Symposium on Sea Turtle Biology and Conversation, February 2nd, 2019. (International Conference - Side project).
