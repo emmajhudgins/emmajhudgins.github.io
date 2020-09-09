@@ -10,11 +10,15 @@ order: 2
 
 **Publications**
 
-* Helmus, M .R., & **Hudgins, E. J.** Risk of cashing out the global invasion credit: An emerging agricultural pest in the U.S. heralds a new era of invasive species impacts. In prep. Science.
+* Helmus, M .R., De Bona, S. & **Hudgins, E. J.** Risk of cashing out the global invasion credit: An emerging agricultural pest in the U.S. heralds a new era of invasive species impacts. In prep.
 
-* **Hudgins, E. J.**, Koch, F. H., Ambrose, M. J., & Leung, B. Estimating damage to urban trees from US invasive forest pests. In prep. PNAS.
+* **Hudgins, E.J.**, Davies, T. J., & Leung, B. A unifying phylogenetic model of amplification and dilution effects of host biodiversity on pest establishment. In prep. 
 
-* **Hudgins, E.J.**, Liebhold, A.M., & Leung, B. Comparing generalized to customized models for United States invasive forest pests. In press. Ecological Applications. ([early view](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.1988))
+* **Hudgins, E. J.**, Koch, F. H., Ambrose, M. J., & Leung, B. Estimating damage to urban trees from US invasive forest pests. In prep. Nature Sustainability.
+
+* Crystal-Ornelas, R. Fantle-Lepczyk, J., Kramer, A., **Hudgins, E.J.**, Leung, B. Diagne, C., et al. Economic costs of biological invasions within North America. in prep. Neobiota.
+
+* **Hudgins, E.J.**, Liebhold, A.M., & Leung, B. Comparing generalized to customized models for United States invasive forest pests. Ecological Applications (2019) 30(1):e01988. ([full text](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.1988))
 
 * Leung, B., **Hudgins, E. J.**, Potapova, A., & Ruiz-Jaen, M. A new baseline for countrywide α-diversity and species distributions: illustration using >6000 plant species in Panama. Ecological Applications (2019) 29(3): e01866. ([full text](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.1866))
 
