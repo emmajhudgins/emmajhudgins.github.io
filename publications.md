@@ -14,9 +14,11 @@ order: 2
 
 * **Hudgins, E.J.**, Davies, T. J., & Leung, B. A unifying phylogenetic model of amplification and dilution effects of host biodiversity on pest establishment. In prep. 
 
-* **Hudgins, E. J.**, Koch, F. H., Ambrose, M. J., & Leung, B. Estimating damage to urban trees from US invasive forest pests. In prep. Nature Sustainability.
+* **Hudgins, E. J.**, Koch, F. H., Ambrose, M. J., & Leung, B. Estimating damage to urban trees from US invasive forest pests. In prep.
 
-* Crystal-Ornelas, R. Fantle-Lepczyk, J., Kramer, A., **Hudgins, E.J.**, Leung, B. Diagne, C., et al. Economic costs of biological invasions within North America. in prep. Neobiota.
+* Ahmed, D. ** Hudgins, E.J.**, Cuthbert, R., Haubrock, P. J., Renault, D., Bonnaud, E., Diagne, C., & Courchamp, F. Modelling the damage costs of invasive alien species. In review. Biological Invasions.
+
+* Crystal-Ornelas, R. Fantle-Lepczyk, J., Kramer, A., **Hudgins, E.J.**, Leung, B. Diagne, C., et al. Economic costs of biological invasions within North America. In press. Neobiota.
 
 * **Hudgins, E.J.**, Liebhold, A.M., & Leung, B. Comparing generalized to customized models for United States invasive forest pests. Ecological Applications (2019) 30(1):e01988. ([full text](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.1988))
 
@@ -35,7 +37,6 @@ order: 2
 **Oral Presentations**
 
 * **Hudgins, E.J.** Predicting Forest Pests: Generalized models for invasive species establishment, spread, and economic impacts. Presented via Zoom on April 22nd, 2020. (PhD Exit Seminar) ([video](https://youtu.be/hceSoNLj4X4))([slides](https://drive.google.com/file/d/1cWsGwcmYP6OP44Yepc-Wbzv_8C4wifsu/view?usp=sharing))
-
 
 * **Hudgins, E.J.**, Koch, F. H., Ambrose, M. J., Leung, B., Estimating the economic damages of United States invasive forest pests. Presented at the World Conference on Natural Resource Modelling, May 23rd, 2019 (International Conference – Graduate work). _Winner – Best Student Presentation._
 
@@ -67,7 +68,9 @@ order: 2
 
 **Poster Presentations**
 
-* **Hudgins, E.J.**, Koch, F. H., Ambrose, M. J., Leung, B., Estimating the economic damages of United States invasive forest pests. Poster presented at Natural Resouces Canada’s Forest Pest Management Forum, December 3-5th, 2019 (National Conference – Graduate work).
+* **Hudgins, E.J.**, Davies, T.J., Leung, B. A unifying phylogenetic model for the effect of host phylogenetic diversity on invasive pest establishment. Poster presented at the British Ecological Society Festival of Ecology. Dec 14-18th, 2020. (International Conference -- Graduate work).
+
+* **Hudgins, E.J.**, Koch, F. H., Ambrose, M. J., Leung, B., Estimating the economic damages of United States invasive forest pests. Poster presented at Natural Resources Canada'��s Forest Pest Management Forum, December 3-5th, 2019 (National Conference -- Graduate work).
 
 
 
