@@ -32,8 +32,6 @@ order: 2
 
 * Hudgins, J.A., **Hudgins, E.J.**, Ali, K., & Mancini, A. Citizen science surveys elucidate key foraging and nesting habitat for two endangered marine turtle species within the Republic of Maldives. Herpetology Notes 10: 463-471. ([full text](https://www.biotaxa.org/hn/article/view/26126))
 
-
-
 **Oral Presentations**
 
 * **Hudgins, E.J.** Predicting Forest Pests: Generalized models for invasive species establishment, spread, and economic impacts. Presented via Zoom on April 22nd, 2020. (PhD Exit Seminar) ([video](https://youtu.be/hceSoNLj4X4))([slides](https://drive.google.com/file/d/1cWsGwcmYP6OP44Yepc-Wbzv_8C4wifsu/view?usp=sharing))
@@ -70,8 +68,4 @@ order: 2
 
 * **Hudgins, E.J.**, Davies, T.J., Leung, B. A unifying phylogenetic model for the effect of host phylogenetic diversity on invasive pest establishment. Poster presented at the British Ecological Society Festival of Ecology. Dec 14-18th, 2020. (International Conference -- Graduate work).
 
-* **Hudgins, E.J.**, Koch, F. H., Ambrose, M. J., Leung, B., Estimating the economic damages of United States invasive forest pests. Poster presented at Natural Resources Canada'€™s Forest Pest Management Forum, December 3-5th, 2019 (National Conference -- Graduate work).
-
-
-
-
+* **Hudgins, E.J.**, Koch, F. H., Ambrose, M. J., Leung, B., Estimating the economic damages of United States invasive forest pests. Poster presented at Natural Resources Canada'??s Forest Pest Management Forum, December 3-5th, 2019 (National Conference -- Graduate work).
