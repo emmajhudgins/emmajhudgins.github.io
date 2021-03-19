@@ -18,7 +18,7 @@ order: 2
 
 * Ahmed, D.A.\*, **Hudgins, E.J.**\*, Cuthbert, R.N.\*, Kourantidou, M., Diagne, C., et al. Managing biological invasions: the cost of inaction. Submitted. Biological Invasions.
 
-* Ahmed, D. Hudgins, E.J., Cuthbert, R., Haubrock, P. J., Renault, D., Bonnaud, E., Diagne, C.,  & Courchamp, F. Modelling the damage costs of invasive alien species. Resubmitted. Biological Invasions.
+* Ahmed, D. **Hudgins, E.J.**, Cuthbert, R., Haubrock, P. J., Renault, D., Bonnaud, E., Diagne, C.,  & Courchamp, F. Modelling the damage costs of invasive alien species. Resubmitted. Biological Invasions.
 
 * Crystal-Ornelas, R. Fantle-Lepczyk, J., Kramer, A., **Hudgins, E.J.**, Leung, B. Diagne, C., et al. Economic costs of biological invasions within North America. In press. Neobiota.
 
