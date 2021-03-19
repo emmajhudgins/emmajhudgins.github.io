@@ -16,7 +16,11 @@ order: 2
 
 * **Hudgins, E. J.**, Koch, F. H., Ambrose, M. J., & Leung, B. Estimating damage to urban trees from US invasive forest pests. In prep.
 
-* Ahmed, D. ** Hudgins, E.J.**, Cuthbert, R., Haubrock, P. J., Renault, D., Bonnaud, E., Diagne, C., & Courchamp, F. Modelling the damage costs of invasive alien species. In review. Biological Invasions.
+* Turbelin, A.J., Diagne, C., *Hudgins, E.J.*, Moodley, D., Haubrock, P.J., et al.. Species on the move: Stowaways and contaminants cause the greatest economic impacts. Submitted. Biological Invasions.
+
+* Ahmed, D.A.\*, **Hudgins, E.J.**\*, Cuthbert, R.N.\*, Kourantidou, M., Diagne, C., et al. Managing biological invasions: the cost of inaction. Submitted. Biological Invasions.
+
+*Ahmed, D. Hudgins, E.J., Cuthbert, R., Haubrock, P. J., Renault, D., Bonnaud, E., Diagne, C.,  & Courchamp, F. Modelling the damage costs of invasive alien species. Resubmitted. Biological Invasions.
 
 * Crystal-Ornelas, R. Fantle-Lepczyk, J., Kramer, A., **Hudgins, E.J.**, Leung, B. Diagne, C., et al. Economic costs of biological invasions within North America. In press. Neobiota.
 
@@ -31,6 +35,8 @@ order: 2
 * Iacarella, J.C., **Hudgins, E.J.**, Dick, J.T.A., & Ricciardi, A. Predatory behaviour of an invasive amphipod in response to the presence of conspecifics and predation risk. Canadian Journal of Fisheries and Aquatic Sciences (2017) 75(1): 131-140.    ([full text](http://www.nrcresearchpress.com/doi/full/10.1139/cjfas-2016-0417))
 
 * Hudgins, J.A., **Hudgins, E.J.**, Ali, K., & Mancini, A. Citizen science surveys elucidate key foraging and nesting habitat for two endangered marine turtle species within the Republic of Maldives. Herpetology Notes 10: 463-471. ([full text](https://www.biotaxa.org/hn/article/view/26126))
+
+\* equivalent contribution
 
 **Oral Presentations**
 
