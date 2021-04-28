@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emma J. Hudgins, PhD</title>
+    <description></description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 28 Apr 2021 15:55:29 -0400</pubDate>
+    <lastBuildDate>Wed, 28 Apr 2021 15:55:29 -0400</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>First Post</title>
+        <description>&lt;p&gt;Happy Holidays! Welcome to my blog. I haven’t blogged about anything yet.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 23 Dec 2017 00:00:00 -0500</pubDate>
+        <link>/2017/12/23/first-post.html</link>
+        <guid isPermaLink="true">/2017/12/23/first-post.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
