@@ -26,6 +26,5 @@ collections:
         misc:
                 output: true
 plugins:
-  - jekyll-assets
   - jekyll-remote-theme
 remote_theme: daviddarnes/alembic@main
