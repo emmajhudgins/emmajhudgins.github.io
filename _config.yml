@@ -25,6 +25,7 @@ collections:
                 output: true
         misc:
                 output: true
-plugins:
-  - jekyll-remote-theme
-remote_theme: daviddarnes/alembic@main
+
+#gems:
+#  - jekyll-assets
+theme: jekyll-theme-minimal
