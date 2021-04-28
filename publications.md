@@ -12,13 +12,13 @@ order: 2
 
 * **Hudgins, E.J.**, Davies, T. J., & Leung, B. A unifying phylogenetic model of amplification and dilution effects of host biodiversity on pest establishment. In prep. 
 
-* **Hudgins, E. J.**, Koch, F. H., Ambrose, M. J., & Leung, B. Estimating damage to urban trees from US invasive forest pests. In prep.
+* **Hudgins, E. J.**, Koch, F. H., Ambrose, M. J., & Leung, B. Urban tree deaths from invasive alien forest insects in the United States, 2020-2050. Submitted. PNAS. ([Preprint](https://doi.org/10.1101/2021.04.24.441210))
 
-* Turbelin, A.J., Diagne, C., *Hudgins, E.J.*, Moodley, D., Haubrock, P.J., et al.. Species on the move: Stowaways and contaminants cause the greatest economic impacts. Submitted. Biological Invasions.
+* Turbelin, A.J., Diagne, C., *Hudgins, E.J.*, Moodley, D., Haubrock, P.J., et al.. Species on the move: Stowaways and contaminants cause the greatest economic impacts. Submitted. Biological Invasions. ([Preprint](https://doi.org/10.21203/rs.3.rs-440305/v1))
 
-* Ahmed, D.A.\*, **Hudgins, E.J.**\*, Cuthbert, R.N.\*, Kourantidou, M., Diagne, C., et al. Managing biological invasions: the cost of inaction. Submitted. Biological Invasions.
+* Ahmed, D.A.\*, **Hudgins, E.J.**\*, Cuthbert, R.N.\*, Kourantidou, M., Diagne, C., et al. Managing biological invasions: the cost of inaction. Submitted. Biological Invasions. ([Preprint](https://doi.org/10.21203/rs.3.rs-300416/v1))
 
-* Ahmed, D. **Hudgins, E.J.**, Cuthbert, R., Haubrock, P. J., Renault, D., Bonnaud, E., Diagne, C.,  & Courchamp, F. Modelling the damage costs of invasive alien species. Resubmitted. Biological Invasions.
+* Ahmed, D. **Hudgins, E.J.**, Cuthbert, R., Haubrock, P. J., Renault, D., Bonnaud, E., Diagne, C.,  & Courchamp, F. Modelling the damage costs of invasive alien species. Resubmitted. Biological Invasions. ([Preprint](https://doi.org/10.21203/rs.3.rs-380351/v1))
 
 * Crystal-Ornelas, R. Fantle-Lepczyk, J., Kramer, A., **Hudgins, E.J.**, Leung, B. Diagne, C., et al. Economic costs of biological invasions within North America. In press. Neobiota.
 
@@ -37,6 +37,8 @@ order: 2
 \* equivalent contribution
 
 **Oral Presentations**
+
+* **Hudgins, E. J.**, Koch, F. H., Ambrose, M. J., & Leung, B. Urban tree deaths from invasive alien forest insects in the United States, 2020-2050. Presented at theInternational Association for Landscape Ecology – North America conference, April 12, 2021, in the organised symposium “Forecasting Biological Invasions”.
 
 * **Hudgins, E.J.** Predicting Forest Pests: Generalized models for invasive species establishment, spread, and economic impacts. Presented via Zoom on April 22nd, 2020. (PhD Exit Seminar) ([video](https://youtu.be/hceSoNLj4X4))([slides](https://drive.google.com/file/d/1cWsGwcmYP6OP44Yepc-Wbzv_8C4wifsu/view?usp=sharing))
 
