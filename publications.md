@@ -8,32 +8,32 @@ order: 2
 
 ---
 
-* 13. Edwards, B.P.M, Binley, A.D., English, W.B., **Hudgins, E.J.**, & Snow, S.S. : A highly anomalous Red-winged Blackbird (Agelaius phoeniceus) song. Submitted. Canadian Field Naturalist.
+\13. Edwards, B.P.M, Binley, A.D., English, W.B., **Hudgins, E.J.**, & Snow, S.S. : A highly anomalous Red-winged Blackbird (Agelaius phoeniceus) song. Submitted. Canadian Field Naturalist.
 
-* 12. Reid, C.H., **Hudgins, E.J.**, Guay, J.D., Patterson, S., Medd, A.M., Cooke, S.J., & Bennett, J.R. The state of Canada's biosecurity efforts to protect biodiversity from species invasions. In revision. FACETS.
+\12. Reid, C.H., **Hudgins, E.J.**, Guay, J.D., Patterson, S., Medd, A.M., Cooke, S.J., & Bennett, J.R. The state of Canada's biosecurity efforts to protect biodiversity from species invasions. In revision. FACETS.
 
 
-* 11. **Hudgins, E. J.**, Koch, F. H., Ambrose, M. J., & Leung, B. Urban tree deaths from invasive alien forest insects in the United States, 2020-2050. In revision. Biological Invasions. ([Preprint](https://doi.org/10.1101/2021.04.24.441210))
+\11. **Hudgins, E. J.**, Koch, F. H., Ambrose, M. J., & Leung, B. Urban tree deaths from invasive alien forest insects in the United States, 2020-2050. In revision. Biological Invasions. ([Preprint](https://doi.org/10.1101/2021.04.24.441210))
 
-* 10. Turbelin, A.J., Diagne, C., *Hudgins, E.J.*, Moodley, D., Haubrock, P.J., et al.. Species on the move: Stowaways and contaminants cause the greatest economic impacts. Resubmitted. Biological Invasions. ([Preprint](https://doi.org/10.21203/rs.3.rs-440305/v1))
+\10. Turbelin, A.J., Diagne, C., *Hudgins, E.J.*, Moodley, D., Haubrock, P.J., et al.. Species on the move: Stowaways and contaminants cause the greatest economic impacts. Resubmitted. Biological Invasions. ([Preprint](https://doi.org/10.21203/rs.3.rs-440305/v1))
 
-* 9. Ahmed, D.A.\*, **Hudgins, E.J.**\*, Cuthbert, R.N.\*, Kourantidou, M., Diagne, C., et al. Managing biological invasions: the cost of inaction. In revision. Biological Invasions. ([Preprint](https://doi.org/10.21203/rs.3.rs-300416/v1))
+\9. Ahmed, D.A.\*, **Hudgins, E.J.**\*, Cuthbert, R.N.\*, Kourantidou, M., Diagne, C., et al. Managing biological invasions: the cost of inaction. In revision. Biological Invasions. ([Preprint](https://doi.org/10.21203/rs.3.rs-300416/v1))
 
-* 8. Ahmed, D. **Hudgins, E.J.**, Cuthbert, R., Haubrock, P. J., Renault, D., Bonnaud, E., Diagne, C.,  & Courchamp, F. Modelling the damage costs of invasive alien species. In press. Biological Invasions. ([Preprint](https://doi.org/10.21203/rs.3.rs-380351/v1))
+\8. Ahmed, D. **Hudgins, E.J.**, Cuthbert, R., Haubrock, P. J., Renault, D., Bonnaud, E., Diagne, C.,  & Courchamp, F. Modelling the damage costs of invasive alien species. In press. Biological Invasions. ([Preprint](https://doi.org/10.21203/rs.3.rs-380351/v1))
 
-* 7. Crystal-Ornelas, R. Fantle-Lepczyk, J., Kramer, A., **Hudgins, E.J.**, Leung, B. Diagne, C., et al. Economic costs of biological invasions within North America. NeoBiota (2021) 67, 485. ([full text](https://neobiota.pensoft.net/article/58038/))
+\7. Crystal-Ornelas, R. Fantle-Lepczyk, J., Kramer, A., **Hudgins, E.J.**, Leung, B. Diagne, C., et al. Economic costs of biological invasions within North America. NeoBiota (2021) 67, 485. ([full text](https://neobiota.pensoft.net/article/58038/))
 
-* 6. **Hudgins, E.J.**, Liebhold, A.M., & Leung, B. Comparing generalized to customized models for United States invasive forest pests. Ecological Applications (2019) 30(1):e01988. ([full text](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.1988))
+\6. **Hudgins, E.J.**, Liebhold, A.M., & Leung, B. Comparing generalized to customized models for United States invasive forest pests. Ecological Applications (2019) 30(1):e01988. ([full text](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.1988))
 
-* 5. Leung, B., **Hudgins, E. J.**, Potapova, A., & Ruiz-Jaen, M. A new baseline for countrywide α-diversity and species distributions: illustration using >6000 plant species in Panama. Ecological Applications (2019) 29(3): e01866. ([full text](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.1866))
+\5. Leung, B., **Hudgins, E. J.**, Potapova, A., & Ruiz-Jaen, M. A new baseline for countrywide α-diversity and species distributions: illustration using >6000 plant species in Panama. Ecological Applications (2019) 29(3): e01866. ([full text](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.1866))
 
-* 4. **Hudgins, E.J.**, Liebhold, A.M., & Leung, B. Corrigendum: Predicting the spread of all invasive forest pests in the United States. Ecology Letters (2018) 21(11): 1752-1754. ([full text](https://onlinelibrary.wiley.com/doi/10.1111/ele.13149))
+\4. **Hudgins, E.J.**, Liebhold, A.M., & Leung, B. Corrigendum: Predicting the spread of all invasive forest pests in the United States. Ecology Letters (2018) 21(11): 1752-1754. ([full text](https://onlinelibrary.wiley.com/doi/10.1111/ele.13149))
 
-* 3. **Hudgins, E.J.**, Liebhold, A.M., & Leung, B. Predicting the spread of all invasive forest pests in the United States. Ecology Letters (2017) 20(4): 426-435. ([full text](http://onlinelibrary.wiley.com/doi/10.1111/ele.12741/full))
+\3. **Hudgins, E.J.**, Liebhold, A.M., & Leung, B. Predicting the spread of all invasive forest pests in the United States. Ecology Letters (2017) 20(4): 426-435. ([full text](http://onlinelibrary.wiley.com/doi/10.1111/ele.12741/full))
 
-* 2. Iacarella, J.C., **Hudgins, E.J.**, Dick, J.T.A., & Ricciardi, A. Predatory behaviour of an invasive amphipod in response to the presence of conspecifics and predation risk. Canadian Journal of Fisheries and Aquatic Sciences (2017) 75(1): 131-140.    ([full text](http://www.nrcresearchpress.com/doi/full/10.1139/cjfas-2016-0417))
+\2. Iacarella, J.C., **Hudgins, E.J.**, Dick, J.T.A., & Ricciardi, A. Predatory behaviour of an invasive amphipod in response to the presence of conspecifics and predation risk. Canadian Journal of Fisheries and Aquatic Sciences (2017) 75(1): 131-140.    ([full text](http://www.nrcresearchpress.com/doi/full/10.1139/cjfas-2016-0417))
 
-* 1. Hudgins, J.A., **Hudgins, E.J.**, Ali, K., & Mancini, A. Citizen science surveys elucidate key foraging and nesting habitat for two endangered marine turtle species within the Republic of Maldives. Herpetology Notes 10: 463-471. ([full text](https://www.biotaxa.org/hn/article/view/26126))
+\1. Hudgins, J.A., **Hudgins, E.J.**, Ali, K., & Mancini, A. Citizen science surveys elucidate key foraging and nesting habitat for two endangered marine turtle species within the Republic of Maldives. Herpetology Notes 10: 463-471. ([full text](https://www.biotaxa.org/hn/article/view/26126))
 
 \* equivalent contribution
 
