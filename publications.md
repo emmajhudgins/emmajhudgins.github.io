@@ -8,9 +8,9 @@ order: 2
 
 ---
 
-13. Edwards, B.P.M, Binley, A.D., English, W.B., **Hudgins, E.J.**, & Snow, S.S. : A highly anomalous Red-winged Blackbird (Agelaius phoeniceus) song. Submitted. Canadian Field Naturalist.
+13. Edwards, B.P.M, Binley, A.D., English, W.B., **Hudgins, E.J.**, & Snow, S.S. : A highly anomalous Red-winged Blackbird (Agelaius phoeniceus) song. In review. Canadian Field Naturalist.
 
-12. Reid, C.H., **Hudgins, E.J.**, Guay, J.D., Patterson, S., Medd, A.M., Cooke, S.J., & Bennett, J.R. The state of Canada's biosecurity efforts to protect biodiversity from species invasions. In revision. FACETS.
+12. Reid, C.H., **Hudgins, E.J.**, Guay, J.D., Patterson, S., Medd, A.M., Cooke, S.J., & Bennett, J.R. The state of Canada's biosecurity efforts to protect biodiversity from species invasions. In press. FACETS.
 
 
 11. **Hudgins, E. J.**, Koch, F. H., Ambrose, M. J., & Leung, B. Urban tree deaths from invasive alien forest insects in the United States, 2020-2050. In revision. Biological Invasions. ([Preprint](https://doi.org/10.1101/2021.04.24.441210))
