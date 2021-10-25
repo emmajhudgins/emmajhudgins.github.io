@@ -13,9 +13,9 @@ order: 2
 12. Reid, C.H., **Hudgins, E.J.**, Guay, J.D., Patterson, S., Medd, A.M., Cooke, S.J., & Bennett, J.R. The state of Canada's biosecurity efforts to protect biodiversity from species invasions. In press. FACETS.
 
 
-11. **Hudgins, E. J.**, Koch, F. H., Ambrose, M. J., & Leung, B. Urban tree deaths from invasive alien forest insects in the United States, 2020-2050. In revision. Biological Invasions. ([Preprint](https://doi.org/10.1101/2021.04.24.441210))
+11. **Hudgins, E. J.**, Koch, F. H., Ambrose, M. J., & Leung, B. Urban tree deaths from invasive alien forest insects in the United States, 2020-2050. In revision. Journal of Applied Ecology. ([Preprint](https://doi.org/10.1101/2021.04.24.441210))
 
-10. Turbelin, A.J., Diagne, C., *Hudgins, E.J.*, Moodley, D., Haubrock, P.J., et al.. Species on the move: Stowaways and contaminants cause the greatest economic impacts. Resubmitted. Biological Invasions. ([Preprint](https://doi.org/10.21203/rs.3.rs-440305/v1))
+10. Turbelin, A.J., Diagne, C., **Hudgins, E.J.**, Moodley, D., Haubrock, P.J., et al.. Species on the move: Stowaways and contaminants cause the greatest economic impacts. Resubmitted. Biological Invasions. ([Preprint](https://doi.org/10.21203/rs.3.rs-440305/v1))
 
 9. Ahmed, D.A.\*, **Hudgins, E.J.**\*, Cuthbert, R.N.\*, Kourantidou, M., Diagne, C., et al. Managing biological invasions: the cost of inaction. In revision. Biological Invasions. ([Preprint](https://doi.org/10.21203/rs.3.rs-300416/v1))
 
