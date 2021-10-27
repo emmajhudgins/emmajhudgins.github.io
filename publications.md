@@ -7,6 +7,13 @@ nav: true
 order: 2
 
 ---
+16.  Palacio, F., Callaghan, C. T., Cardoso, P.,**Hudgins, E.J.**, Jarzyna, M., Ottaviani, G., Riva, F., Roza, C., Shirey, V., & Mammola, S.  A protocol for reproducible functional diversity analyses. Submitted. Methods in Ecology and Evolution. ([Preprint](https://ecoevorxiv.org/yt9sb/))
+
+15.  Soto, I., Cuthbert, R.N., Kouba, A., Capinha, C., Turbelin, A., **Hudgins, E.J.**, Diagne, C., Courchamp, F., & Haubrock, P.J. Global economic costs of herpetofauna invasions. Submitted. Conservation Biology.
+
+14. Hanson, J.O., McCune, J.L., Chadès, I., Proctor, C.A., **Hudgins, E.J.**,
+& Bennett, J.R., Optimizing ecological surveys for conservation. Submitted. Journal of Applied Ecology.
+
 
 13. Edwards, B.P.M, Binley, A.D., English, W.B., **Hudgins, E.J.**, & Snow, S.S. : A highly anomalous Red-winged Blackbird (Agelaius phoeniceus) song. In review. Canadian Field Naturalist.
 
