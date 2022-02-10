@@ -22,14 +22,14 @@ order: 2
 12. Ahmed, D.A.\*, **Hudgins, E.J.**\*, Cuthbert, R.N.\*, Kourantidou, M., Diagne, C., et al. Managing biological invasions: the cost of inaction. Accepted. Biological Invasions. ([Preprint](https://doi.org/10.21203/rs.3.rs-300416/v1))
 \***joint first author*
 
-11. Cuthbert, R.N., Diagne, C\*. **Hudgins, E.J.**\*, Turbelin, A.J.\*, Ahmed, D. A., Albert, C., Bodey, T.W., Briski, E., Essl, F., Haubrock, P.J., Gozlan, R.E., Kirichenko, N., Kourantidou, M., Kramer, A. M., & Courchamp, F. (2022). Biological invasion costs reveal insufficient proactive management worldwide. Science of the Total Environment, 153404.  https://doi.org/10.1016/j.scitotenv.2022.153404.
+11. Cuthbert, R.N., Diagne, C\*. **Hudgins, E.J.**\*, Turbelin, A.J.\*, Ahmed, D. A., Albert, C., Bodey, T.W., Briski, E., Essl, F., Haubrock, P.J., Gozlan, R.E., Kirichenko, N., Kourantidou, M., Kramer, A. M., & Courchamp, F. (2022). Biological invasion costs reveal insufficient proactive management worldwide. Science of the Total Environment, 153404. ([full text](https://doi.org/10.1016/j.scitotenv.2022.153404))
 \***joint second author**
 
-10. Haubrock, P. J., Cuthbert, R. N., Hudgins, E. J., Crystal-Ornelas, R., Kourantidou, M., Moodley, D., Liu, C., Turbelin, A.J., Leroy, B., & Courchamp, F. (2022). Geographic and taxonomic trends of rising biological invasion costs. Science of the Total Environment, 152948.  https://doi.org/10.1016/j.scitotenv.2022.152948
+10. Haubrock, P. J., Cuthbert, R. N., Hudgins, E. J., Crystal-Ornelas, R., Kourantidou, M., Moodley, D., Liu, C., Turbelin, A.J., Leroy, B., & Courchamp, F. (2022). Geographic and taxonomic trends of rising biological invasion costs. Science of the Total Environment, 152948. ([full text](https://doi.org/10.1016/j.scitotenv.2022.152948))
 
-9. Ahmed, D.A.\*, **Hudgins, E.J.**\*, Cuthbert, R.N.\*, Kourantidou, M., Diagne, C., et al. Managing biological invasions: the cost of inaction. In revision. Biological Invasions. ([Preprint](https://doi.org/10.21203/rs.3.rs-300416/v1))
+9. Ahmed, D. Hudgins, E.J., Cuthbert, R., Haubrock, P.J., Renault, D., Bonnaud, E., Diagne, C., & Courchamp, F. Modelling the damage costs of invasive alien species. Biological Invasions (2021). ([full text](https://doi.org/10.1007/s10530-021-02586-5)) 
 
-8. Ahmed, D. **Hudgins, E.J.**, Cuthbert, R., Haubrock, P. J., Renault, D., Bonnaud, E., Diagne, C.,  & Courchamp, F. Modelling the damage costs of invasive alien species. In press. Biological Invasions. ([Preprint](https://doi.org/10.21203/rs.3.rs-380351/v1))
+8. Reid, C.H., Hudgins, E.J., Guay, J.D., Patterson, S., Medd, A.M., Cooke, S.J., & Bennett, J.R. The state of Canada’s biosecurity efforts to protect biodiversity from species invasions. FACETS 6: 1922-1954. ([full text](https://doi.org/10.1139/facets-2021-0012))
 
 7. Crystal-Ornelas, R. Fantle-Lepczyk, J., Kramer, A., **Hudgins, E.J.**, Leung, B. Diagne, C., et al. Economic costs of biological invasions within North America. NeoBiota (2021) 67, 485. ([full text](https://neobiota.pensoft.net/article/58038/))
 
