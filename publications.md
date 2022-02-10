@@ -7,22 +7,25 @@ nav: true
 order: 2
 
 ---
-16.  Palacio, F., Callaghan, C. T., Cardoso, P.,**Hudgins, E.J.**, Jarzyna, M., Ottaviani, G., Riva, F., Roza, C., Shirey, V., & Mammola, S.  A protocol for reproducible functional diversity analyses. Submitted. Methods in Ecology and Evolution. ([Preprint](https://ecoevorxiv.org/yt9sb/))
+18.  Palacio, F., Callaghan, C.T., Cardoso, P., **Hudgins, E.J.**, Jarzyna, M., Ottaviani, G., Riva, F., Roza, C., Shirey, V., & Mammola, S.  A protocol for reproducible functional diversity analyses. Submitted. Ecography. ([Preprint](https://ecoevorxiv.org/yt9sb/))
 
-15.  Soto, I., Cuthbert, R.N., Kouba, A., Capinha, C., Turbelin, A., **Hudgins, E.J.**, Diagne, C., Courchamp, F., & Haubrock, P.J. Global economic costs of herpetofauna invasions. Submitted. Conservation Biology.
+17.  Soto, I., Cuthbert, R.N., Kouba, A., Capinha, C., Turbelin, A., **Hudgins, E.J.**, Diagne, C., Courchamp, F., & Haubrock, P.J. Global economic costs of herpetofauna invasions. In review. Conservation Biology. ([Preprint](https://doi.org/10.21203/rs.3.rs-964112/v1))
 
-14. Hanson, J.O., McCune, J.L., Chadès, I., Proctor, C.A., **Hudgins, E.J.**,
-& Bennett, J.R., Optimizing ecological surveys for conservation. Submitted. Journal of Applied Ecology.
+16. Hanson, J.O., McCune, J.L., Chadès, I., Proctor, C.A., Hudgins, E.J., & Bennett, J.R., Optimizing ecological surveys for conservation. In review. Journal of Applied Ecology.
 
+15. Edwards, B.P.M, Binley, A.D., English, W.B., Hudgins, E.J., & Snow, S.S.: A highly anomalous Red-winged Blackbird (Agelaius phoeniceus) song. Resubmitted. Canadian Field Naturalist.
 
-13. Edwards, B.P.M, Binley, A.D., English, W.B., **Hudgins, E.J.**, & Snow, S.S. : A highly anomalous Red-winged Blackbird (Agelaius phoeniceus) song. In review. Canadian Field Naturalist.
+14. Turbelin, A.J., Diagne, C., **Hudgins, E.J.**, Moodley, D., Haubrock, P.J., et al.. Species on the move: Stowaways and contaminants cause the greatest economic impacts. Resubmitted. Biological Invasions. ([Preprint](https://doi.org/10.21203/rs.3.rs-440305/v1))
 
-12. Reid, C.H., **Hudgins, E.J.**, Guay, J.D., Patterson, S., Medd, A.M., Cooke, S.J., & Bennett, J.R. The state of Canada's biosecurity efforts to protect biodiversity from species invasions. In press. FACETS.
+13. **Hudgins, E. J.**, Koch, F.H., Ambrose, M.J., & Leung, B. Hotspots of pest-induced US urban tree death, 2020-2050. Accepted. Journal of Applied Ecology. ([Preprint](https://doi.org/10.1101/2021.04.24.441210))
 
+12. Ahmed, D.A.\*, **Hudgins, E.J.**\*, Cuthbert, R.N.\*, Kourantidou, M., Diagne, C., et al. Managing biological invasions: the cost of inaction. Accepted. Biological Invasions. ([Preprint](https://doi.org/10.21203/rs.3.rs-300416/v1))
+\***joint first author*
 
-11. **Hudgins, E. J.**, Koch, F. H., Ambrose, M. J., & Leung, B. Urban tree deaths from invasive alien forest insects in the United States, 2020-2050. In revision. Journal of Applied Ecology. ([Preprint](https://doi.org/10.1101/2021.04.24.441210))
+11. Cuthbert, R.N., Diagne, C\*. **Hudgins, E.J.**\*, Turbelin, A.J.\*, Ahmed, D. A., Albert, C., Bodey, T.W., Briski, E., Essl, F., Haubrock, P.J., Gozlan, R.E., Kirichenko, N., Kourantidou, M., Kramer, A. M., & Courchamp, F. (2022). Biological invasion costs reveal insufficient proactive management worldwide. Science of the Total Environment, 153404.  https://doi.org/10.1016/j.scitotenv.2022.153404.
+\***joint second author**
 
-10. Turbelin, A.J., Diagne, C., **Hudgins, E.J.**, Moodley, D., Haubrock, P.J., et al.. Species on the move: Stowaways and contaminants cause the greatest economic impacts. Resubmitted. Biological Invasions. ([Preprint](https://doi.org/10.21203/rs.3.rs-440305/v1))
+10. Haubrock, P. J., Cuthbert, R. N., Hudgins, E. J., Crystal-Ornelas, R., Kourantidou, M., Moodley, D., Liu, C., Turbelin, A.J., Leroy, B., & Courchamp, F. (2022). Geographic and taxonomic trends of rising biological invasion costs. Science of the Total Environment, 152948.  https://doi.org/10.1016/j.scitotenv.2022.152948
 
 9. Ahmed, D.A.\*, **Hudgins, E.J.**\*, Cuthbert, R.N.\*, Kourantidou, M., Diagne, C., et al. Managing biological invasions: the cost of inaction. In revision. Biological Invasions. ([Preprint](https://doi.org/10.21203/rs.3.rs-300416/v1))
 
@@ -45,6 +48,12 @@ order: 2
 \* equivalent contribution
 
 **Oral Presentations**
+
+* **Hudgins, E.J.**. New perspectives in forest pest management for a resilient urban canopy. Presented at the Invasive Species Centre’s Annual Symposium. Feb 3, 2022. Invited presentation. ([video](https://youtu.be/F65PmhL8ueQ?t=1352))
+
+* **Hudgins, E.J.**. Optimal control of emerald ash borer (Agrilus planipennis) spread across the United States. Presented at the Forest Pest Management Forum (Canadian Federal-Provincial-Municipal-NGO meeting). Dec. 9, 2021.
+
+* Crystal-Ornelas, R., **Hudgins, E.J. (presenting author)**, Cuthbert, R.N., Haubrock, P.J., Fantle-Lepczyk, J., Angulo, E., Kramer, A., Ballesteros-Mejia, L., Leroy, B., Leung, B., López-López, E., Diagne, C., & Courchamp, F. Economic costs of biological invasions within North America. Presented at the Invasive Species Council of British Columbia’s annual meeting, Oct. 6, 2021. Invited presentation.
 
 * **Hudgins, E. J.**, Koch, F. H., Ambrose, M. J., & Leung, B. Urban tree deaths from invasive alien forest insects in the United States, 2020-2050. Presented at the International Association for Landscape Ecology – North America conference, April 12, 2021, in the organised symposium “Forecasting Biological Invasions”.
 
