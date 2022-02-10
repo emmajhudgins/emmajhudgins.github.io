@@ -20,7 +20,7 @@ order: 2
 13. **Hudgins, E. J.**, Koch, F.H., Ambrose, M.J., & Leung, B. Hotspots of pest-induced US urban tree death, 2020-2050. Accepted. Journal of Applied Ecology. ([Preprint](https://doi.org/10.1101/2021.04.24.441210))
 
 12. Ahmed, D.A.\*, **Hudgins, E.J.**\*, Cuthbert, R.N.\*, Kourantidou, M., Diagne, C., et al. Managing biological invasions: the cost of inaction. Accepted. Biological Invasions. ([Preprint](https://doi.org/10.21203/rs.3.rs-300416/v1))
-\***joint first author*
+\***joint first author**
 
 11. Cuthbert, R.N., Diagne, C\*. **Hudgins, E.J.**\*, Turbelin, A.J.\*, Ahmed, D. A., Albert, C., Bodey, T.W., Briski, E., Essl, F., Haubrock, P.J., Gozlan, R.E., Kirichenko, N., Kourantidou, M., Kramer, A. M., & Courchamp, F. (2022). Biological invasion costs reveal insufficient proactive management worldwide. Science of the Total Environment, 153404. ([full text](https://doi.org/10.1016/j.scitotenv.2022.153404))
 \***joint second author**
