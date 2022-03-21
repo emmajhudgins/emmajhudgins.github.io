@@ -11,11 +11,11 @@ order: 2
 
 17.  Soto, I., Cuthbert, R.N., Kouba, A., Capinha, C., Turbelin, A., **Hudgins, E.J.**, Diagne, C., Courchamp, F., & Haubrock, P.J. Global economic costs of herpetofauna invasions. In review. Conservation Biology. ([Preprint](https://doi.org/10.21203/rs.3.rs-964112/v1))
 
-16. Hanson, J.O., McCune, J.L., Chadès, I., Proctor, C.A., Hudgins, E.J., & Bennett, J.R., Optimizing ecological surveys for conservation. In revision. Journal of Applied Ecology.
+16. Hanson, J.O., McCune, J.L., Chadès, I., Proctor, C.A., **Hudgins, E.J.**, & Bennett, J.R., Optimizing ecological surveys for conservation. In revision. Journal of Applied Ecology.
 
 15. Turbelin, A.J., Diagne, C., **Hudgins, E.J.**, Moodley, D., Haubrock, P.J., et al.. Species on the move: Stowaways and contaminants cause the greatest economic impacts. Resubmitted. Biological Invasions. ([Preprint](https://doi.org/10.21203/rs.3.rs-440305/v1))
 
-14. Edwards, B.P.M, Binley, A.D., English, W.B., Hudgins, E.J., & Snow, S.S.: A highly anomalous Red-winged Blackbird (Agelaius phoeniceus) song. Resubmitted. Canadian Field Naturalist.
+14. Edwards, B.P.M, Binley, A.D., English, W.B., **Hudgins, E.J.**, & Snow, S.S.: A highly anomalous Red-winged Blackbird (Agelaius phoeniceus) song. Accepted. Canadian Field Naturalist.
 
 13. **Hudgins, E. J.**, Koch, F.H., Ambrose, M.J., & Leung, B. (2022). Hotspots of pest-induced US urban tree death, 2020-2050. Journal of Applied Ecology. ([full text](https://doi.org/10.1111/1365-2664.14141/))
 
@@ -25,11 +25,11 @@ order: 2
 11. Cuthbert, R.N., Diagne, C\*. **Hudgins, E.J.**\*, Turbelin, A.J.\*, Ahmed, D. A., Albert, C., Bodey, T.W., Briski, E., Essl, F., Haubrock, P.J., Gozlan, R.E., Kirichenko, N., Kourantidou, M., Kramer, A. M., & Courchamp, F. (2022). Biological invasion costs reveal insufficient proactive management worldwide. Science of the Total Environment, 153404. ([full text](https://doi.org/10.1016/j.scitotenv.2022.153404))
 \***joint second author**
 
-10. Haubrock, P. J., Cuthbert, R. N., Hudgins, E. J., Crystal-Ornelas, R., Kourantidou, M., Moodley, D., Liu, C., Turbelin, A.J., Leroy, B., & Courchamp, F. (2022). Geographic and taxonomic trends of rising biological invasion costs. Science of the Total Environment, 152948. ([full text](https://doi.org/10.1016/j.scitotenv.2022.152948))
+10. Haubrock, P. J., Cuthbert, R. N., **Hudgins, E. J.**, Crystal-Ornelas, R., Kourantidou, M., Moodley, D., Liu, C., Turbelin, A.J., Leroy, B., & Courchamp, F. (2022). Geographic and taxonomic trends of rising biological invasion costs. Science of the Total Environment, 152948. ([full text](https://doi.org/10.1016/j.scitotenv.2022.152948))
 
-9. Ahmed, D. Hudgins, E.J., Cuthbert, R., Haubrock, P.J., Renault, D., Bonnaud, E., Diagne, C., & Courchamp, F. (2021). Modelling the damage costs of invasive alien species. Biological Invasions. ([full text](https://doi.org/10.1007/s10530-021-02586-5)) 
+9. Ahmed, D. **Hudgins, E.J.**, Cuthbert, R., Haubrock, P.J., Renault, D., Bonnaud, E., Diagne, C., & Courchamp, F. (2021). Modelling the damage costs of invasive alien species. Biological Invasions. ([full text](https://doi.org/10.1007/s10530-021-02586-5)) 
 
-8. Reid, C.H., Hudgins, E.J., Guay, J.D., Patterson, S., Medd, A.M., Cooke, S.J., & Bennett, J.R. (2021). The state of Canada’s biosecurity efforts to protect biodiversity from species invasions. FACETS 6: 1922-1954. ([full text](https://doi.org/10.1139/facets-2021-0012))
+8. Reid, C.H., **Hudgins, E.J.**, Guay, J.D., Patterson, S., Medd, A.M., Cooke, S.J., & Bennett, J.R. (2021). The state of Canada’s biosecurity efforts to protect biodiversity from species invasions. FACETS 6: 1922-1954. ([full text](https://doi.org/10.1139/facets-2021-0012))
 
 7. Crystal-Ornelas, R. Fantle-Lepczyk, J., Kramer, A., **Hudgins, E.J.**, Leung, B. Diagne, C., et al. (2021) Economic costs of biological invasions within North America. NeoBiota 67, 485-510. ([full text](https://neobiota.pensoft.net/article/58038/))
 
