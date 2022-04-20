@@ -7,13 +7,18 @@ nav: true
 order: 2
 
 ---
-18.  Palacio, F., Callaghan, C.T., Cardoso, P., **Hudgins, E.J.**, Jarzyna, M., Ottaviani, G., Riva, F., Roza, C., Shirey, V., & Mammola, S.  A protocol for reproducible functional diversity analyses. In review. Ecography. ([Preprint](https://ecoevorxiv.org/yt9sb/))
 
-17.  Soto, I., Cuthbert, R.N., Kouba, A., Capinha, C., Turbelin, A., **Hudgins, E.J.**, Diagne, C., Courchamp, F., & Haubrock, P.J. Global economic costs of herpetofauna invasions. In review. Conservation Biology. ([Preprint](https://doi.org/10.21203/rs.3.rs-964112/v1))
+20. Riva, F. Graco-Roza, C., Daskalova, G., Hudgins, E.J., Lewthwaite, J. M. M., Newman, E. A., Ryo, M., & Mammola, S.  Towards a cohesive understanding of ecological complexity. Submitted, Science Advances. Preprint: https://ecoevorxiv.org/tzy9k/ 
+
+19.  Haubrock, P.J., Ahmed, D.A.A., Cuthbert, R.N., ….Hudgins, E.J., et al. Invasion impacts and dynamics of a European-wide introduced species. Accepted. Global Change Biology.
+
+18.  Palacio, F., Callaghan, C.T., Cardoso, P., **Hudgins, E.J.**, Jarzyna, M., Ottaviani, G., Riva, F., Roza, C., Shirey, V., & Mammola, S.  A protocol for reproducible functional diversity analyses. In revision. Ecography. ([Preprint](https://ecoevorxiv.org/yt9sb/))
+
+17.  Soto, I., Cuthbert, R.N., Kouba, A., Capinha, C., Turbelin, A., **Hudgins, E.J.**, Diagne, C., Courchamp, F., & Haubrock, P.J. Global economic costs of herpetofauna invasions. In revision. Science Advances ([Preprint](https://doi.org/10.21203/rs.3.rs-964112/v1))
 
 16. Hanson, J.O., McCune, J.L., Chadès, I., Proctor, C.A., **Hudgins, E.J.**, & Bennett, J.R., Optimizing ecological surveys for conservation. In revision. Journal of Applied Ecology.
 
-15. Turbelin, A.J., Diagne, C., **Hudgins, E.J.**, Moodley, D., Haubrock, P.J., et al.. Species on the move: Stowaways and contaminants cause the greatest economic impacts. Resubmitted. Biological Invasions. ([Preprint](https://doi.org/10.21203/rs.3.rs-440305/v1))
+15. Turbelin, A.J., Diagne, C., **Hudgins, E.J.**, Moodley, D., Haubrock, P.J., et al.. Species on the move: Stowaways and contaminants cause the greatest economic impacts. Accepted. Biological Invasions. ([Preprint](https://doi.org/10.21203/rs.3.rs-440305/v1))
 
 14. Edwards, B.P.M, Binley, A.D., English, W.B., **Hudgins, E.J.**, & Snow, S.S.: A highly anomalous Red-winged Blackbird (Agelaius phoeniceus) song. Accepted. Canadian Field Naturalist.
 
