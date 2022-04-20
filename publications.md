@@ -8,9 +8,9 @@ order: 2
 
 ---
 
-20. Riva, F. Graco-Roza, C., Daskalova, G., Hudgins, E.J., Lewthwaite, J. M. M., Newman, E. A., Ryo, M., & Mammola, S.  Towards a cohesive understanding of ecological complexity. Submitted, Science Advances. ([Preprint](https://ecoevorxiv.org/tzy9k/))
+20. Riva, F. Graco-Roza, C., Daskalova, G., **Hudgins, E.J.**, Lewthwaite, J. M. M., Newman, E. A., Ryo, M., & Mammola, S.  Towards a cohesive understanding of ecological complexity. Submitted, Science Advances. ([Preprint](https://ecoevorxiv.org/tzy9k/))
 
-19.  Haubrock, P.J., Ahmed, D.A.A., Cuthbert, R.N., ….Hudgins, E.J., et al. Invasion impacts and dynamics of a European-wide introduced species. Accepted. Global Change Biology.
+19.  Haubrock, P.J., Ahmed, D.A.A., Cuthbert, R.N., …**Hudgins, E.J.**, et al. Invasion impacts and dynamics of a European-wide introduced species. Accepted. Global Change Biology.
 
 18.  Palacio, F., Callaghan, C.T., Cardoso, P., **Hudgins, E.J.**, Jarzyna, M., Ottaviani, G., Riva, F., Roza, C., Shirey, V., & Mammola, S.  A protocol for reproducible functional diversity analyses. In revision. Ecography. ([Preprint](https://ecoevorxiv.org/yt9sb/))
 
