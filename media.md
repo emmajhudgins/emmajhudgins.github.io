@@ -8,8 +8,6 @@ order: 1
 
 ---
 
-# Media
-
 ## Press on peer-reviewed publications
 
 *Coverage of *Hudgins, E. J., et al. (2022). Hotspots of pest-induced US urban tree death, 2020-2050. Journal of Applied Ecology.* ([full text](https://doi.org/10.1111/1365-2664.14141/))
