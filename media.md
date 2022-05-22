@@ -4,21 +4,21 @@ layout: page
 title: "Media"
 permalink: /media
 nav: true
-order: 4
+order: 5
 
 ---
 
 # Media
 
-## Press on peer-reviewed publication
+## Press on peer-reviewed publications
 
-Coverage of *Hudgins, E. J., et al. (2022). Hotspots of pest-induced US urban tree death, 2020-2050. Journal of Applied Ecology.* ([full text](https://doi.org/10.1111/1365-2664.14141/))
+#### Coverage of *Hudgins, E. J., et al. (2022). Hotspots of pest-induced US urban tree death, 2020-2050. Journal of Applied Ecology.* ([full text](https://doi.org/10.1111/1365-2664.14141/))
 
-#### Audio
+##### Audio
 - [CBC's Quirks and Quarks](https://www.cbc.ca/listen/live-radio/1-51-quirks-and-quarks/clip/15901522-the-urban-tree-canopy-facing-worst-case-scenario-near)
 - [InfoTrak Radio](https://www.talkzone.com/episodes/199/11505.html)
 
-#### Print
+##### Print
 - [New York Post](https://nypost.com/2022/03/21/invasive-insects-could-kill-1-4-million-street-trees-by-2050/)
 - [Washington Post](https://www.washingtonpost.com/science/2022/03/20/trees-pests-ash-borer/)
 - [Newsweek](https://www.newsweek.com/invasive-insects-could-cost-us-900m-over-30-years-study-1687786)
@@ -28,10 +28,9 @@ Coverage of *Hudgins, E. J., et al. (2022). Hotspots of pest-induced US urban tr
 - [CABI](https://www.cabi.org/forestscience/news/68430)
 - [Open Access Government](https://www.openaccessgovernment.org/invasive-insects-danger-to-urban-trees/131531/)
 
+#### Coverage of *Reid, Hudgins, E.J., et al. (2021). The state of Canada’s biosecurity efforts to protect biodiversity from species invasions. FACETS 6: 1922-1954. ([full text](https://doi.org/10.1139/facets-2021-0012))*
 
-Coverage of *Reid, Hudgins, E.J., et al. (2021). The state of Canada’s biosecurity efforts to protect biodiversity from species invasions. FACETS 6: 1922-1954. ([full text](https://doi.org/10.1139/facets-2021-0012))*
-
-#### Print
+##### Print
 - [FACETS blog](https://medium.com/facets/how-well-is-canada-prepared-to-manage-current-and-future-invasive-species-threats-to-biodiversity-a43b0f817fc5)
 
 ## Recorded talks
