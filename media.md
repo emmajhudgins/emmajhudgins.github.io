@@ -10,7 +10,7 @@ order: 1
 
 ## Press on peer-reviewed publications
 
-*Coverage of *Hudgins, E. J., et al. (2022). Hotspots of pest-induced US urban tree death, 2020-2050. Journal of Applied Ecology.* ([full text](https://doi.org/10.1111/1365-2664.14141/))
+Coverage of *Hudgins, E. J., et al. (2022). Hotspots of pest-induced US urban tree death, 2020-2050. Journal of Applied Ecology.* ([full text](https://doi.org/10.1111/1365-2664.14141/))
 
 Audio
 - [CBC's Quirks and Quarks](https://www.cbc.ca/listen/live-radio/1-51-quirks-and-quarks/clip/15901522-the-urban-tree-canopy-facing-worst-case-scenario-near)
@@ -26,7 +26,7 @@ Print
 - [CABI](https://www.cabi.org/forestscience/news/68430)
 - [Open Access Government](https://www.openaccessgovernment.org/invasive-insects-danger-to-urban-trees/131531/)
 
-*Coverage of *Reid, Hudgins, E.J., et al. (2021). The state of Canada’s biosecurity efforts to protect biodiversity from species invasions. FACETS 6: 1922-1954. ([full text](https://doi.org/10.1139/facets-2021-0012))*
+Coverage of *Reid, Hudgins, E.J., et al. (2021). The state of Canada’s biosecurity efforts to protect biodiversity from species invasions. FACETS 6: 1922-1954. ([full text](https://doi.org/10.1139/facets-2021-0012))*
 
 Print
 - [FACETS blog](https://medium.com/facets/how-well-is-canada-prepared-to-manage-current-and-future-invasive-species-threats-to-biodiversity-a43b0f817fc5)
