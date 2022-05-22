@@ -34,6 +34,6 @@ Print
 ## Recorded talks
 
 - [PhD seminar (2020)](https://youtu.be/hceSoNLj4X4)
-- [University of Queensland invited seminar (2018)](https://www.youtube.com/watch?v=tK0CBbXwioM&t=143s)
 - [British Ecological Society lightning talk (2020)](https://www.youtube.com/watch?v=0f7S7nYMbVM)
+- [University of Queensland invited seminar (2018)](https://www.youtube.com/watch?v=tK0CBbXwioM&t=143s)
 
