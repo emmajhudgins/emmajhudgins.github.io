@@ -8,15 +8,19 @@ order: 2
 
 ---
 
-20. Riva, F. Graco-Roza, C., Daskalova, G., **Hudgins, E.J.**, Lewthwaite, J. M. M., Newman, E. A., Ryo, M., & Mammola, S.  Towards a cohesive understanding of ecological complexity. Submitted, Science Advances. ([Preprint](https://ecoevorxiv.org/tzy9k/))
+22. Gomes, D.G.E, …, **Hudgins, E.J.**, & Gaynor, K.M. Why don’t we share data and code? Perceived barriers and benefits to public archiving practices. Submitted. Proceedings of the Royal Society B.
 
-19.  Palacio, F., Callaghan, C.T., Cardoso, P., **Hudgins, E.J.**, Jarzyna, M., Ottaviani, G., Riva, F., Roza, C., Shirey, V., & Mammola, S.  A protocol for reproducible functional diversity analyses. In revision. Ecography. ([Preprint](https://ecoevorxiv.org/yt9sb/))
+21. Soto, I., …., **Hudgins, E.J.**, & Briski, E. The faunal Ponto-Caspianization of European Waterways. Submitted. Global Change Biology. ([Preprint](https://doi.org/10.21203/rs.3.rs-1702320/v1)) 
 
-18.  Soto, I., Cuthbert, R.N., Kouba, A., Capinha, C., Turbelin, A., **Hudgins, E.J.**, Diagne, C., Courchamp, F., & Haubrock, P.J. Global economic costs of herpetofauna invasions. In revision. Science Advances ([Preprint](https://doi.org/10.21203/rs.3.rs-964112/v1))
+20. Riva, F. Graco-Roza, C., Daskalova, G., **Hudgins, E.J.**, Lewthwaite, J. M. M., Newman, E. A., Ryo, M., & Mammola, S.  Towards a cohesive understanding of ecological complexity. In review. Science Advances. ([Preprint](https://ecoevorxiv.org/tzy9k/))
 
-17. Hanson, J.O., McCune, J.L., Chadès, I., Proctor, C.A., **Hudgins, E.J.**, & Bennett, J.R., Optimizing ecological surveys for conservation. In revision. Journal of Applied Ecology.
+19.  Palacio, F., Callaghan, C.T., Cardoso, P., **Hudgins, E.J.**, Jarzyna, M., Ottaviani, G., Riva, F., Roza, C., Shirey, V., & Mammola, S.  A protocol for reproducible functional diversity analyses. Resubmitted. Ecography. ([Preprint](https://ecoevorxiv.org/yt9sb/))
 
-16. Edwards, B.P.M, Binley, A.D., English, W.B., **Hudgins, E.J.**, & Snow, S.S.: A highly anomalous Red-winged Blackbird (*Agelaius phoeniceus*) song. Accepted. Canadian Field Naturalist.
+18.  Soto, I., Cuthbert, R.N., Kouba, A., Capinha, C., Turbelin, A., **Hudgins, E.J.**, Diagne, C., Courchamp, F., & Haubrock, P.J. Global economic costs of herpetofauna invasions. In review. Science Advances ([Preprint](https://doi.org/10.21203/rs.3.rs-964112/v1))
+
+17. Hanson, J.O., McCune, J.L., Chadès, I., Proctor, C.A., **Hudgins, E.J.**, & Bennett, J.R., Optimizing ecological surveys for conservation. Resubmitted. Journal of Applied Ecology.
+
+16. Edwards, B.P.M, Binley, A.D., English, W.B., **Hudgins, E.J.**, & Snow, S.S.: A highly anomalous Red-winged Blackbird (*Agelaius phoeniceus*) song. In press. Canadian Field Naturalist.
 
 15.  Haubrock, P.J., Ahmed, D.A.A., Cuthbert, R.N., …**Hudgins, E.J.**, et al. (2022). Invasion impacts and dynamics of a European-wide introduced species. Global Change Biology. ([full text](https://doi.org/10.1111/gcb.16207))
 
