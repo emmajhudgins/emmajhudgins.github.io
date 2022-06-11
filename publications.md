@@ -8,7 +8,7 @@ order: 2
 
 ---
 
-22. Gomes, D.G.E, …, **Hudgins, E.J.**, & Gaynor, K.M. Why don’t we share data and code? Perceived barriers and benefits to public archiving practices. Submitted. Proceedings of the Royal Society B.
+22. Gomes, D.G.E, …, **Hudgins, E.J.**, & Gaynor, K.M. Why don’t we share data and code? Perceived barriers and benefits to public archiving practices. Submitted. Proceedings of the Royal Society B. ([Preprint](https://osf.io/preprints/metaarxiv/gaj43/))
 
 21. Soto, I., …., **Hudgins, E.J.**, & Briski, E. The faunal Ponto-Caspianization of European Waterways. Submitted. Global Change Biology. ([Preprint](https://doi.org/10.21203/rs.3.rs-1702320/v1)) 
 
