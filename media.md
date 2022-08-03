@@ -8,6 +8,13 @@ order: 1
 
 ---
 
+## Recorded talks
+- [IPRRG invited webinar (2022)](https://www.youtube.com/watch?v=uPpmb_2YjBQ)
+- [Invasive Species Centre invited talk (2022)](https://youtu.be/F65PmhL8ueQ?t=1352)
+- [PhD seminar (2020)](https://youtu.be/hceSoNLj4X4)
+- [British Ecological Society lightning talk (2020)](https://www.youtube.com/watch?v=0f7S7nYMbVM)
+- [University of Queensland invited seminar (2018)](https://www.youtube.com/watch?v=tK0CBbXwioM&t=143s)
+
 ## Selected press on peer-reviewed publications
 
 Coverage of *Hudgins, E. J., et al. (2022). Hotspots of pest-induced US urban tree death, 2020-2050. Journal of Applied Ecology.* ([full text](https://doi.org/10.1111/1365-2664.14141/))
@@ -17,6 +24,8 @@ Audio
 - [InfoTrak Radio](https://www.talkzone.com/episodes/199/11505.html)
 
 Print
+- [National Observer](https://www.nationalobserver.com/2022/07/14/news/scientists-tackling-one-invasive-species-another)
+- [Treehugger blog](https://www.treehugger.com/invasive-insects-kill-million-trees-2050-5271729)
 - [New York Post](https://nypost.com/2022/03/21/invasive-insects-could-kill-1-4-million-street-trees-by-2050/)
 - [Washington Post](https://www.washingtonpost.com/science/2022/03/20/trees-pests-ash-borer/)
 - [Newsweek](https://www.newsweek.com/invasive-insects-could-cost-us-900m-over-30-years-study-1687786)
@@ -31,9 +40,4 @@ Coverage of *Reid, Hudgins, E.J., et al. (2021). The state of Canada’s biosecu
 Print
 - [FACETS blog](https://medium.com/facets/how-well-is-canada-prepared-to-manage-current-and-future-invasive-species-threats-to-biodiversity-a43b0f817fc5)
 
-## Recorded talks
-
-- [PhD seminar (2020)](https://youtu.be/hceSoNLj4X4)
-- [British Ecological Society lightning talk (2020)](https://www.youtube.com/watch?v=0f7S7nYMbVM)
-- [University of Queensland invited seminar (2018)](https://www.youtube.com/watch?v=tK0CBbXwioM&t=143s)
 
