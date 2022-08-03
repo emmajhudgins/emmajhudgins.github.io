@@ -8,23 +8,29 @@ order: 2
 
 ---
 
-22. Gomes, D.G.E, …, **Hudgins, E.J.**, & Gaynor, K.M. Why don’t we share data and code? Perceived barriers and benefits to public archiving practices. Submitted. Proceedings of the Royal Society B. ([Preprint](https://osf.io/preprints/metaarxiv/gaj43/))
 
-21. Soto, I., …., **Hudgins, E.J.**, & Briski, E. The faunal Ponto-Caspianization of European Waterways. Submitted. Global Change Biology. ([Preprint](https://doi.org/10.21203/rs.3.rs-1702320/v1)) 
+24. Soto, I., …., **Hudgins, E.J.**, & Briski, E. The faunal Ponto-Caspianization of European Waterways. Submitted. Science of the Total Environment. ([Preprint](https://doi.org/10.21203/rs.3.rs-1702320/v1)) 
 
-20. Riva, F. Graco-Roza, C., Daskalova, G., **Hudgins, E.J.**, Lewthwaite, J. M. M., Newman, E. A., Ryo, M., & Mammola, S.  Towards a cohesive understanding of ecological complexity. In review. Science Advances. ([Preprint](https://ecoevorxiv.org/tzy9k/))
+23. **Hudgins, E.J.**\*, Cuthbert, R.\*, Haubrock, P.\*, Taylor, N., Kourantidou, M., Nguyen, D., ... & Courchamp, F. (2022). The ecological dimension of global trade: origin and recipient regions of biological invasion costs. In review. Nature Sustainability. ([Preprint](https://doi.org/10.21203/rs.3.rs-1762292/v1))
+**\*joint first author**
 
-19.  Palacio, F., Callaghan, C.T., Cardoso, P., **Hudgins, E.J.**, Jarzyna, M., Ottaviani, G., Riva, F., Roza, C., Shirey, V., & Mammola, S.  A protocol for reproducible functional diversity analyses. Resubmitted. Ecography. ([Preprint](https://ecoevorxiv.org/yt9sb/))
+22. Gomes, D.G.E, …, **Hudgins, E.J.**, & Gaynor, K.M. Why don’t we share data and code? Perceived barriers and benefits to public archiving practices. In review. Proceedings of the Royal Society B. ([Preprint](https://osf.io/preprints/metaarxiv/gaj43/))
 
-18.  Soto, I., Cuthbert, R.N., Kouba, A., Capinha, C., Turbelin, A., **Hudgins, E.J.**, Diagne, C., Courchamp, F., & Haubrock, P.J. Global economic costs of herpetofauna invasions. In review. Science Advances ([Preprint](https://doi.org/10.21203/rs.3.rs-964112/v1))
+21. Hudgins, J.A., **Hudgins, E.J.**, Köhnk, S., Mohamed Riyad, E., & Stelfox, M.R. A brighter future? Stable and growing sea turtle populations in the Republic of Maldives. In revision. PLoS oNE.
 
-17. Hanson, J.O., McCune, J.L., Chadès, I., Proctor, C.A., **Hudgins, E.J.**, & Bennett, J.R., Optimizing ecological surveys for conservation. Resubmitted. Journal of Applied Ecology.
+20. Riva, F. Graco-Roza, C., Daskalova, G., **Hudgins, E.J.**, Lewthwaite, J. M. M., Newman, E. A., Ryo, M., & Mammola, S.  Towards a cohesive understanding of ecological complexity. In revision. Science Advances. ([Preprint](https://ecoevorxiv.org/tzy9k/))
 
-16. Edwards, B.P.M, Binley, A.D., English, W.B., **Hudgins, E.J.**, & Snow, S.S.: A highly anomalous Red-winged Blackbird (*Agelaius phoeniceus*) song. In press. Canadian Field Naturalist.
+19. Hanson, J.O., McCune, J.L., Chadès, I., Proctor, C.A., **Hudgins, E.J.**, & Bennett, J.R., Optimizing ecological surveys for conservation. Resubmitted. Journal of Applied Ecology.
 
-15.  Haubrock, P.J., Ahmed, D.A.A., Cuthbert, R.N., …**Hudgins, E.J.**, et al. (2022). Invasion impacts and dynamics of a European-wide introduced species. Global Change Biology. ([full text](https://doi.org/10.1111/gcb.16207))
+18.  Palacio, F., Callaghan, C.T., Cardoso, P., **Hudgins, E.J.**, Jarzyna, M., Ottaviani, G., Riva, F., Roza, C., Shirey, V., & Mammola, S.  A protocol for reproducible functional diversity analyses. Accepted. Ecography. ([Preprint](https://ecoevorxiv.org/yt9sb/))
 
-14. Turbelin, A.J., Diagne, C., **Hudgins, E.J.**, Moodley, D., Haubrock, P.J., et al.. (2022). Introduction pathways of economically costly invasive alien species. Biological Invasions. ([full text](https://doi.org/10.1007/s10530-022-02796-5))
+17.  Soto, I., Cuthbert, R.N., Kouba, A., Capinha, C., Turbelin, A., **Hudgins, E.J.**, Diagne, C., Courchamp, F., & Haubrock, P.J. Global economic costs of herpetofauna invasions. Scientific Reports 12, 10829. ([full text](https://doi.org/10.1038/s41598-022-15079-9))
+
+16. Edwards, B.P.M, Binley, A.D., English, W.B., **Hudgins, E.J.**, & Snow, S.S.: A highly anomalous Red-winged Blackbird (*Agelaius phoeniceus*) song. The Canadian Field Naturalist 136(1), 1-4. ([full text](https://doi.org/10.22621/cfn.v136i1.2877)) 
+
+15.  Haubrock, P.J., Ahmed, D.A.A., Cuthbert, R.N., …**Hudgins, E.J.**, et al. (2022). Invasion impacts and dynamics of a European-wide introduced species. Global Change Biology 28(15), 4620-4632. ([full text](https://doi.org/10.1111/gcb.16207))
+
+14. Turbelin, A.J., Diagne, C., **Hudgins, E.J.**, Moodley, D., Haubrock, P.J., et al.. (2022). Introduction pathways of economically costly invasive alien species. Biological Invasions 24, 2061-2079. ([full text](https://doi.org/10.1007/s10530-022-02796-5))
 
 13. **Hudgins, E. J.**, Koch, F.H., Ambrose, M.J., & Leung, B. (2022). Hotspots of pest-induced US urban tree death, 2020-2050. Journal of Applied Ecology. ([full text](https://doi.org/10.1111/1365-2664.14141/))
 
@@ -58,9 +64,11 @@ order: 2
 
 **Oral Presentations**
 
-* **Hudgins, E.J.**. New perspectives in forest pest management for a resilient urban canopy. Presented at the Invasive Species Centre’s Annual Symposium. Feb 3, 2022. Invited presentation. ([video](https://youtu.be/F65PmhL8ueQ?t=1352))
+* **Hudgins, E.J.** New perspectives in North American urban forest pest management. Webinar for the International Pest Risk Research Group. July 13, 2022. Invited presentation. ([video](https://www.youtube.com/watch?v=uPpmb_2YjBQ))
 
-* **Hudgins, E.J.**. Optimal control of emerald ash borer (Agrilus planipennis) spread across the United States. Presented at the Forest Pest Management Forum (Canadian Federal-Provincial-Municipal-NGO meeting). Dec. 9, 2021.
+* **Hudgins, E.J.** New perspectives in forest pest management for a resilient urban canopy. Presented at the Invasive Species Centre’s Annual Symposium. Feb 3, 2022. Invited presentation. ([video](https://youtu.be/F65PmhL8ueQ?t=1352))
+
+* **Hudgins, E.J.** Optimal control of emerald ash borer (Agrilus planipennis) spread across the United States. Presented at the Forest Pest Management Forum (Canadian Federal-Provincial-Municipal-NGO meeting). Dec. 9, 2021.
 
 * Crystal-Ornelas, R., **Hudgins, E.J. (presenting author)**, Cuthbert, R.N., Haubrock, P.J., Fantle-Lepczyk, J., Angulo, E., Kramer, A., Ballesteros-Mejia, L., Leroy, B., Leung, B., López-López, E., Diagne, C., & Courchamp, F. Economic costs of biological invasions within North America. Presented at the Invasive Species Council of British Columbia’s annual meeting, Oct. 6, 2021. Invited presentation.
 
