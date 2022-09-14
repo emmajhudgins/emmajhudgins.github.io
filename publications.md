@@ -69,6 +69,8 @@ order: 2
 
 **Oral Presentations**
 
+* **Hudgins, E.J.**, Bennett, J.R., & Leung, B. New perspectives in forest invader management. Presented at the Ecological Society of America’s annual meeting, August 16, 2022.
+
 * **Hudgins, E.J.** New perspectives in North American urban forest pest management. Webinar for the International Pest Risk Research Group. July 13, 2022. Invited presentation. ([video](https://www.youtube.com/watch?v=uPpmb_2YjBQ))
 
 * **Hudgins, E.J.** New perspectives in forest pest management for a resilient urban canopy. Presented at the Invasive Species Centre’s Annual Symposium. Feb 3, 2022. Invited presentation. ([video](https://youtu.be/F65PmhL8ueQ?t=1352))
