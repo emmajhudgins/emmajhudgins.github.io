@@ -8,13 +8,18 @@ order: 2
 
 ---
 
+27. Crystal-Ornelas, R., Edwards, B., Hébert, K., **Hudgins, E. J.**, Sánchez-Reyes, L. L., Scott, E. R., … , & Braga, P. H. P. Not just for programmers: How GitHub can accelerate collaborative and reproducible research in ecology and evolution. ([Preprint](https://doi.org/10.31222/osf.io/x3p2q))
 
-24. Soto, I., …., **Hudgins, E.J.**, & Briski, E. The faunal Ponto-Caspianization of European Waterways. Submitted. Science of the Total Environment. ([Preprint](https://doi.org/10.21203/rs.3.rs-1702320/v1)) 
+26. Ahmed, D.A., Beidas, A., ... **Hudgins, E.J.**, ... & Haase, P. Capture efficiency of pitfall traps based on sampling strategy and the movement of arthropods. Submitted. Methods in Ecology and Evolution.
 
-23. **Hudgins, E.J.**\*, Cuthbert, R.\*, Haubrock, P.\*, Taylor, N., Kourantidou, M., Nguyen, D., ... & Courchamp, F. (2022). The ecological dimension of global trade: origin and recipient regions of biological invasion costs. In review. Nature Sustainability. ([Preprint](https://doi.org/10.21203/rs.3.rs-1762292/v1))
+25. **Hudgins, E.J.**, Hanson, J.O., MacQuarrie, C.K., Yemshanov,D., Baker, C., Holden, M.H., McDonald-Madden, E., & Bennett, J. R. Optimal emerald ash borer (*Agrilus planipennis*) control across the United States. Submitted. Nature Ecology & Evolution. ([Preprint](https://doi.org/10.21203/rs.3.rs-1998687/v1))
+
+24. Soto, I., …., **Hudgins, E.J.**, & Briski, E. The faunal Ponto-Caspianization of European Waterways. Submitted. Journal of Animal Ecology. ([Preprint](https://doi.org/10.21203/rs.3.rs-1702320/v1)) 
+
+23. **Hudgins, E.J.**\*, Cuthbert, R.\*, Haubrock, P.\*, Taylor, N., Kourantidou, M., Nguyen, D., ... & Courchamp, F. The ecological dimension of global trade: origin and recipient regions of biological invasion costs. In review. Nature Sustainability. ([Preprint](https://doi.org/10.21203/rs.3.rs-1762292/v1))
 **\*joint first author**
 
-22. Gomes, D.G.E, …, **Hudgins, E.J.**, & Gaynor, K.M. Why don’t we share data and code? Perceived barriers and benefits to public archiving practices. In review. Proceedings of the Royal Society B. ([Preprint](https://osf.io/preprints/metaarxiv/gaj43/))
+22. Gomes, D.G.E, …, **Hudgins, E.J.**, & Gaynor, K.M. Why don’t we share data and code? Perceived barriers and benefits to public archiving practices. In revision. Proceedings of the Royal Society B. ([Preprint](https://osf.io/preprints/metaarxiv/gaj43/))
 
 21. Hudgins, J.A., **Hudgins, E.J.**, Köhnk, S., Mohamed Riyad, E., & Stelfox, M.R. A brighter future? Stable and growing sea turtle populations in the Republic of Maldives. In revision. PLoS oNE.
 
@@ -22,11 +27,11 @@ order: 2
 
 19. Hanson, J.O., McCune, J.L., Chadès, I., Proctor, C.A., **Hudgins, E.J.**, & Bennett, J.R., Optimizing ecological surveys for conservation. Resubmitted. Journal of Applied Ecology.
 
-18.  Palacio, F., Callaghan, C.T., Cardoso, P., **Hudgins, E.J.**, Jarzyna, M., Ottaviani, G., Riva, F., Roza, C., Shirey, V., & Mammola, S.  A protocol for reproducible functional diversity analyses. Accepted. Ecography. ([Preprint](https://ecoevorxiv.org/yt9sb/))
+18.  Palacio, F., Callaghan, C.T., Cardoso, P., **Hudgins, E.J.**, Jarzyna, M., Ottaviani, G., Riva, F., Roza, C., Shirey, V., & Mammola, S. (2022). A protocol for reproducible functional diversity analyses. Ecography e06287. ([full text](https://doi.org/10.1111/ecog.06287))
 
-17.  Soto, I., Cuthbert, R.N., Kouba, A., Capinha, C., Turbelin, A., **Hudgins, E.J.**, Diagne, C., Courchamp, F., & Haubrock, P.J. Global economic costs of herpetofauna invasions. Scientific Reports 12, 10829. ([full text](https://doi.org/10.1038/s41598-022-15079-9))
+17.  Soto, I., Cuthbert, R.N., Kouba, A., Capinha, C., Turbelin, A., **Hudgins, E.J.**, Diagne, C., Courchamp, F., & Haubrock, P.J. (2022). Global economic costs of herpetofauna invasions. Scientific Reports 12, 10829. ([full text](https://doi.org/10.1038/s41598-022-15079-9))
 
-16. Edwards, B.P.M, Binley, A.D., English, W.B., **Hudgins, E.J.**, & Snow, S.S.: A highly anomalous Red-winged Blackbird (*Agelaius phoeniceus*) song. The Canadian Field Naturalist 136(1), 1-4. ([full text](https://doi.org/10.22621/cfn.v136i1.2877)) 
+16. Edwards, B.P.M, Binley, A.D., English, W.B., **Hudgins, E.J.**, & Snow, S.S. (2022). A highly anomalous Red-winged Blackbird (*Agelaius phoeniceus*) song. The Canadian Field Naturalist 136(1), 1-4. ([full text](https://doi.org/10.22621/cfn.v136i1.2877)) 
 
 15.  Haubrock, P.J., Ahmed, D.A.A., Cuthbert, R.N., …**Hudgins, E.J.**, et al. (2022). Invasion impacts and dynamics of a European-wide introduced species. Global Change Biology 28(15), 4620-4632. ([full text](https://doi.org/10.1111/gcb.16207))
 
