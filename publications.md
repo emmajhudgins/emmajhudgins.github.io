@@ -8,24 +8,26 @@ order: 2
 
 ---
 
-27. Crystal-Ornelas, R., Edwards, B., Hébert, K., **Hudgins, E. J.**, Sánchez-Reyes, L. L., Scott, E. R., … , & Braga, P. H. P. Not just for programmers: How GitHub can accelerate collaborative and reproducible research in ecology and evolution. ([Preprint](https://doi.org/10.31222/osf.io/x3p2q))
+28. **Hudgins, E.J.**, Hanson, J.O., MacQuarrie, C.K., Yemshanov,D., Baker, C., Holden, M.H., McDonald-Madden, E., & Bennett, J. R. Optimal emerald ash borer (*Agrilus planipennis*) control across the United States. Submitted. Biological Conservation. ([Preprint](https://doi.org/10.21203/rs.3.rs-1998687/v2))
 
-26. Ahmed, D.A., Beidas, A., ... **Hudgins, E.J.**, ... & Haase, P. Capture efficiency of pitfall traps based on sampling strategy and the movement of arthropods. Submitted. Methods in Ecology and Evolution.
+27. Ahmed, D.A., Beidas, A., ... **Hudgins, E.J.**, ... & Haase, P. Capture efficiency of pitfall traps based on sampling strategy and the movement of arthropods. Submitted. Methods in Ecology and Evolution.
 
-25. **Hudgins, E.J.**, Hanson, J.O., MacQuarrie, C.K., Yemshanov,D., Baker, C., Holden, M.H., McDonald-Madden, E., & Bennett, J. R. Optimal emerald ash borer (*Agrilus planipennis*) control across the United States. Submitted. Nature Ecology & Evolution. ([Preprint](https://doi.org/10.21203/rs.3.rs-1998687/v1))
+26. Turbelin, A. J.\*, **Hudgins, E. J.**\*, Catford, J. A., Cuthbert, R. N., Diagne, C., Kourantidou, M., Roiz, D., & Courchamp, F. Biological invasions as burdens to primary economic sectors. In review. Global Environmental Change. ([Preprint]https://doi.org/10.21203/rs.3.rs-2444595/v1)
 
-24. Soto, I., …., **Hudgins, E.J.**, & Briski, E. The faunal Ponto-Caspianization of European Waterways. Submitted. Journal of Animal Ecology. ([Preprint](https://doi.org/10.21203/rs.3.rs-1702320/v1)) 
+25. Soto, I., …., **Hudgins, E.J.**, & Briski, E. The faunal Ponto-Caspianization of European Waterways. In Revision. Biological Invasions. ([Preprint](https://doi.org/10.21203/rs.3.rs-1702320/v1)) 
 
-23. **Hudgins, E.J.**\*, Cuthbert, R.\*, Haubrock, P.\*, Taylor, N., Kourantidou, M., Nguyen, D., ... & Courchamp, F. The ecological dimension of global trade: origin and recipient regions of biological invasion costs. In review. Nature Sustainability. ([Preprint](https://doi.org/10.21203/rs.3.rs-1762292/v1))
+24. Crystal-Ornelas, R., Edwards, B., Hébert, K., **Hudgins, E. J.**, Sánchez-Reyes, L. L., Scott, E. R., … , & Braga, P. H. P. Not just for programmers: How GitHub can accelerate collaborative and reproducible research in ecology and evolution. Accepted. Methods in Ecology and Evolution ([Preprint](https://doi.org/10.31222/osf.io/x3p2q))
+
+23. **Hudgins, E.J.**\*, Cuthbert, R.\*, Haubrock, P.\*, Taylor, N., Kourantidou, M., Nguyen, D., ... & Courchamp, F. The ecological dimension of global trade: origin and recipient regions of biological invasion costs. Accepted in principle. Nature Sustainability. ([Preprint](https://doi.org/10.21203/rs.3.rs-1762292/v1))
 **\*joint first author**
 
-22. Gomes, D.G.E, …, **Hudgins, E.J.**, & Gaynor, K.M. Why don’t we share data and code? Perceived barriers and benefits to public archiving practices. In revision. Proceedings of the Royal Society B. ([Preprint](https://osf.io/preprints/metaarxiv/gaj43/))
+22. Riva, F. Graco-Roza, C., Daskalova, G., **Hudgins, E.J.**, Lewthwaite, J. M. M., Newman, E. A., Ryo, M., & Mammola, S.  Towards a cohesive understanding of ecological complexity. Resubmitted. Science Advances. ([Preprint](https://ecoevorxiv.org/tzy9k/))
 
-21. Hudgins, J.A., **Hudgins, E.J.**, Köhnk, S., Mohamed Riyad, E., & Stelfox, M.R. A brighter future? Stable and growing sea turtle populations in the Republic of Maldives. In revision. PLoS oNE.
+21. Hudgins, J.A., **Hudgins, E.J.**, Köhnk, S., Mohamed Riyad, E., & Stelfox, M.R. A brighter future? Stable and growing sea turtle populations in the Republic of Maldives. In press. PLoS oNE.
 
-20. Riva, F. Graco-Roza, C., Daskalova, G., **Hudgins, E.J.**, Lewthwaite, J. M. M., Newman, E. A., Ryo, M., & Mammola, S.  Towards a cohesive understanding of ecological complexity. In revision. Science Advances. ([Preprint](https://ecoevorxiv.org/tzy9k/))
+20. Gomes, D.G.E, …, **Hudgins, E.J.**, & Gaynor, K.M. Why don’t we share data and code? Perceived barriers and benefits to public archiving practices. Proceedings of the Royal Society B., 289(1987) ([Full text](https://royalsocietypublishing.org/doi/10.1098/rspb.2022.1113))
 
-19. Hanson, J.O., McCune, J.L., Chadès, I., Proctor, C.A., **Hudgins, E.J.**, & Bennett, J.R., Optimizing ecological surveys for conservation. Resubmitted. Journal of Applied Ecology.
+19. Hanson, J.O., McCune, J.L., Chadès, I., Proctor, C.A., **Hudgins, E.J.**, & Bennett, J.R., Optimizing ecological surveys for conservation. Journal of Applied Ecology, 60, 41-51 ([Full text](https://doi.org/10.1111/1365-2664.14309))
 
 18.  Palacio, F., Callaghan, C.T., Cardoso, P., **Hudgins, E.J.**, Jarzyna, M., Ottaviani, G., Riva, F., Roza, C., Shirey, V., & Mammola, S. (2022). A protocol for reproducible functional diversity analyses. Ecography e06287. ([full text](https://doi.org/10.1111/ecog.06287))
 
@@ -68,6 +70,8 @@ order: 2
 \* equivalent contribution
 
 **Oral Presentations**
+
+* **Hudgins, E.J.**. Optimal control and spatial consera
 
 * **Hudgins, E.J.**, Bennett, J.R., & Leung, B. New perspectives in forest invader management. Presented at the Ecological Society of America’s annual meeting, August 16, 2022.
 

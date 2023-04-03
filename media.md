@@ -4,11 +4,12 @@ layout: page
 title: "Media"
 permalink: /media
 nav: true
-order: 1
+order: 6
 
 ---
 
 ## Recorded talks
+- [Invasive Species Centre invited talk (2023)](https://www.youtube.com/watch?v=IPSWpRXVgqI)
 - [IPRRG invited webinar (2022)](https://www.youtube.com/watch?v=uPpmb_2YjBQ)
 - [Invasive Species Centre invited talk (2022)](https://youtu.be/F65PmhL8ueQ?t=1352)
 - [PhD seminar (2020)](https://youtu.be/hceSoNLj4X4)
@@ -23,10 +24,10 @@ Coverage of *Soto, I.,..., Hudgins, E.J.*, et al. (2022) Global economic costs o
 Print
 - [The Conversation Canada](https://theconversation.com/invasive-reptile-and-amphibian-species-are-causing-billions-of-dollars-in-damages-globally-188680)
 
-
 Coverage of *Hudgins, E. J., et al. (2022). Hotspots of pest-induced US urban tree death, 2020-2050. Journal of Applied Ecology.* ([full text](https://doi.org/10.1111/1365-2664.14141/))
 
 Audio
+- [Words on Wood](https://shows.acast.com/words-on-wood/episodes/s3e1-ash-under-threat)
 - [CBC's Quirks and Quarks](https://www.cbc.ca/listen/live-radio/1-51-quirks-and-quarks/clip/15901522-the-urban-tree-canopy-facing-worst-case-scenario-near)
 - [InfoTrak Radio](https://www.talkzone.com/episodes/199/11505.html)
 
