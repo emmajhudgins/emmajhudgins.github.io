@@ -71,7 +71,15 @@ order: 2
 
 **Oral Presentations**
 
-* **Hudgins, E.J.**. Optimal control and spatial consera
+* **Hudgins, E.J.**. North American forest invader spread, impacts, and management priorities for urban resilience. Presented at the Australian Department of Agriculture, Fisheries, and Forestry Plant Health Division Meeting, March 29th, 2023.
+
+* **Hudgins, E. J. ** Invasive forest pest impacts and mitigation tactics for urban wellbeing in a changing climate. Presented at the Northeast RISCC Symposium, February 15, 2023.
+
+* **Hudgins, E. J.** New perspectives in North American forest pest management – expert opinions across the management network. Presented at the Invasive Species Centre Forum, February 8, 2023.
+
+* **Hudgins, E.J.** New perspectives in North American forest pest management for an efficient, resilient, and equitable response. Presented at the Ontario Forest Health Review, October 26, 2022
+
+* **Hudgins, E.J.** Forest pest management for a resilient urban canopy. Presented to the Environmental Sustainability Rotary Action Group (ESRAG) Eastern NA Regional Chapter, October 17, 2022.
 
 * **Hudgins, E.J.**, Bennett, J.R., & Leung, B. New perspectives in forest invader management. Presented at the Ecological Society of America’s annual meeting, August 16, 2022.
 
