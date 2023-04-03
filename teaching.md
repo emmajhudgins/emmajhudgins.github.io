@@ -1,0 +1,37 @@
+---
+
+layout: page
+title: "Teaching"
+permalink: /teaching
+nav: true
+order: 3
+
+---
+
+## Current Courses Taught
+
+* ISAP 2002. Winter 2023. (in person) Carleton University. Research Principles for Interdisciplinary Science. [syllabus]({{ site.url  }}/assets/ISAP 2002 Syllabus 2023.pdf)
+
+## Previous Courses Taught
+
+* ENSC 2002. Fall 2021. (hybrid) Carleton University. Environmental Methods and Analysis. [syllabus]({{ site.url  }}/assets/ENSC 2002 Fall 2021 syllabus-3.pdf)
+
+## Workshops
+
+* Project-based workflows with GitHub. Two-hour training co-delivered with fellow postdoc Courtney Robichaud to Carleton University Biology Graduate Students and Postdocts, March 31st, 2022. [workshop materials](https://github.com/emmajhudgins/Carleton_github)
+
+* Project-based workflows with GitHub. Two-hour training co-delivered with fellow postdoc Courtney Robichaud to Waterloo University Biology students Feb 16th, 2022. [workshop materials](https://github.com/emmajhudgins/WEN_github)
+
+* Promoting GitHub use in EcoEvo Workshop. Co-organized with Rob Crystal-Ornelas and 5 others. July 12, 2021. Part of the Society for Open, Reproducible, and Transparent Ecology and Evolution (SORTEE) 2021 Conference. [workshop materials](https://github.com/orgs/SORTEE-Github-Hackathon/)
+
+
+## Guest Lectures
+
+* ISAP 3002. Winter 2023. (in person) Carleton University. Applications in Interdisciplinary Research. Lecture title "Reproducible Data Science with GitHub". [lecture slides]({{ site.url  }}/assets/ISAP.3002.Guest.Lecture.pdf)
+
+* HORT 499. Winter 2023. (hybrid) Oregon State University. Ecological Systems Modeling. Lecture title "Optimal Control and Spatial Conservation Planning". [lecture materials](https://github.com/emmajhudgins/optimization_intro_osu)
+
+* BIOL 373. 2015-2018. (in person) McGill University. Biometry. Various guest lectures. [course description](https://www.mcgill.ca/study/2022-2023/courses/biol-373)
+
+
+
