@@ -8,7 +8,7 @@ order: 2
 
 ---
 
-{29.} **Hudgins, E.J.**, Hanson, J.O., MacQuarrie, C.K., Yemshanov, D., Baker, C., Holden, M.H., McDonald-Madden, E., & Bennett, J. R. Optimal emerald ash borer (*Agrilus planipennis*) control across the United States. Submitted. Biological Conservation. ([Preprint](https://doi.org/10.21203/rs.3.rs-1998687/v3))
+{30.} **Hudgins, E.J.**, Hanson, J.O., MacQuarrie, C.K., Yemshanov, D., Baker, C., Holden, M.H., McDonald-Madden, E., & Bennett, J. R. Optimal emerald ash borer (*Agrilus planipennis*) control across the United States. Submitted. Biological Conservation. ([Preprint](https://doi.org/10.21203/rs.3.rs-1998687/v3))
 
 {29.} Ahmed, D.A., Beidas, A., ... **Hudgins, E.J.**, ... & Haase, P. Capture efficiency of pitfall traps based on sampling strategy and the movement of arthropods. Submitted. Methods in Ecology and Evolution.
 
