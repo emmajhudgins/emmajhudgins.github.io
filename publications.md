@@ -10,11 +10,13 @@ order: 2
 
 {29.} **Hudgins, E.J.**, Hanson, J.O., MacQuarrie, C.K., Yemshanov, D., Baker, C., Holden, M.H., McDonald-Madden, E., & Bennett, J. R. Optimal emerald ash borer (*Agrilus planipennis*) control across the United States. Submitted. Biological Conservation. ([Preprint](https://doi.org/10.21203/rs.3.rs-1998687/v3))
 
-{28.} Ahmed, D.A., Beidas, A., ... **Hudgins, E.J.**, ... & Haase, P. Capture efficiency of pitfall traps based on sampling strategy and the movement of arthropods. Submitted. Methods in Ecology and Evolution.
+{29.} Ahmed, D.A., Beidas, A., ... **Hudgins, E.J.**, ... & Haase, P. Capture efficiency of pitfall traps based on sampling strategy and the movement of arthropods. Submitted. Methods in Ecology and Evolution.
 
-{27.} Ahmed, D.A., Haubrock, P.J., Cuthbert, R.N. ..., **Hudgins, E.J.**, ..., & Courchamp, F. Recent advances in availability and synthesis of the economic costs of biological invasions. In review. Ecology Letters. ([Preprint](https://doi.org/10.22541/au.167907497.77590504/v1))
+{28.} Ahmed, D.A., Haubrock, P.J., Cuthbert, R.N. ..., **Hudgins, E.J.**, ..., & Courchamp, F. Recent advances in availability and synthesis of the economic costs of biological invasions. In review. Ecology Letters. ([Preprint](https://doi.org/10.22541/au.167907497.77590504/v1))
 
-{26.} Turbelin, A. J.\*, **Hudgins, E. J.**\*, Catford, J. A., Cuthbert, R. N., Diagne, C., Kourantidou, M., Roiz, D., & Courchamp, F. Biological invasions as burdens to primary economic sectors. In review. Global Environmental Change. ([Preprint](https://doi.org/10.21203/rs.3.rs-2444595/v1))
+{27.} Turbelin, A. J.\*, **Hudgins, E. J.**\*, Catford, J. A., Cuthbert, R. N., Diagne, C., Kourantidou, M., Roiz, D., & Courchamp, F. Biological invasions as burdens to primary economic sectors. In review. Global Environmental Change. ([Preprint](https://doi.org/10.21203/rs.3.rs-2444595/v1))
+
+{26.} Fernandez, R.D., Haubrock, P.J., Cuthbert, R.N., Heringer, G., Kourantidou, M., **Hudgins, E.J.**, Angulo, E., Diagne, C.A., Courchamp, F., & Nuñez, M.A. Underexplored and Growing Economic Costs of Invasive Alien Trees. In Review. Scientific Reports. ([preprint]( http://dx.doi.org/10.2139/ssrn.4196468))
 
 {25.} Soto, I., …., **Hudgins, E.J.**, & Briski, E. The faunal Ponto-Caspianization of European Waterways. In Revision. Biological Invasions. ([Preprint](https://doi.org/10.21203/rs.3.rs-1702320/v1)) 
 
