@@ -7,8 +7,10 @@ nav: true
 order: 4
 
 ---
-    <object data="/assets/EmmaHudginsCV2022.pdf" type="application/pdf" width="100%" height="500px">
-      <p>Unable to display PDF file. <a href="/assets/EmmaHudginsCV2022.pdf">Download</a> instead.</p>
-    </object>
+<object data="https://ejhudgins.com/assets/EmmaHudginsCV2022.pdf" type="application/pdf" width="700px" height="700px">
+  <embed src="https://ejhudgins.com/assets/EmmaHudginsCV2022.pdf">
+    <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://ejhudgins.com/assets/EmmaHudginsCV2022.pdf">Download PDF</a>.</p>
+  </embed>
+</object>
     
 ([PDF]({{ site.url  }}/assets/EmmaHudginsCV2022.pdf))
