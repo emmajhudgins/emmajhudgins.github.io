@@ -8,6 +8,9 @@ order: 6
 
 ---
 
+# [Join me for a webinar Wednesday, September 13 at 4pm Eastern Time!](https://www.dontmovefirewood.org/webinar_morebugsarecoming/)
+
+
 ## Recorded talks
 - [Invasive Species Centre invited talk (2023)](https://www.youtube.com/watch?v=IPSWpRXVgqI)
 - [IPRRG invited webinar (2022)](https://www.youtube.com/watch?v=uPpmb_2YjBQ)

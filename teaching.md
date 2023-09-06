@@ -10,9 +10,11 @@ order: 3
 
 ## Current Courses Taught
 
-* ISAP 2002. Winter 2023. (in person) Carleton University. Research Principles for Interdisciplinary Science. [syllabus]({{ site.url  }}/assets/ISAP 2002 Syllabus 2023.pdf)
+* BIOL 10010. Semester 2 2023. (in person, assisting with practical) University of Melbourne. Introductory Biology: Life's Complexity. [handbook](https://handbook.unimelb.edu.au/subjects/biol10010)
 
 ## Previous Courses Taught
+
+* ISAP 2002. Winter 2023. (in person) Carleton University. Research Principles for Interdisciplinary Science. [syllabus]({{ site.url  }}/assets/ISAP 2002 Syllabus 2023.pdf)
 
 * ENSC 2002. Fall 2021. (hybrid) Carleton University. Environmental Methods and Analysis. [syllabus]({{ site.url  }}/assets/ENSC 2002 Fall 2021 syllabus-3.pdf)
 

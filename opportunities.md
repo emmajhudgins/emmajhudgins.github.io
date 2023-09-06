@@ -9,7 +9,4 @@ order: 5
 ---
 
 
-
-Stay tuned for Graduate opportunities coming soon (based somewhere quite far away from Ottawa...)!
-
-Feel free to [get in touch](mailto:emma.hudgins@carleton.ca) if you are interested in being kept up to date.
+Specific project opportunities coming soon! Please get in touch if you'd like to join my team by emailing me at emma[dot]hudgins[at]unimelb[dot]edu[dot]au
