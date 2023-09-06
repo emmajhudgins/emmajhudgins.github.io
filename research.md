@@ -1,7 +1,7 @@
 ---
 
 layout: page
-title: "research"
+title: "Research"
 permalink: /research
 nav: true
 order: 1
