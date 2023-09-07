@@ -7,29 +7,28 @@ nav: true
 order: 2
 
 ---
+{30.} Turbelin, A. J.\*, **Hudgins, E. J.**\*, Catford, J. A., Cuthbert, R. N., Diagne, C., Kourantidou, M., Roiz, D., & Courchamp, F. Biological invasions as burdens to primary economic sectors. In review. Global Environmental Change. ([Preprint](https://doi.org/10.21203/rs.3.rs-2444595/v1))
 
-{30.} **Hudgins, E.J.**, Hanson, J.O., MacQuarrie, C.K., Yemshanov, D., Baker, C., Holden, M.H., McDonald-Madden, E., & Bennett, J. R. Optimal emerald ash borer (*Agrilus planipennis*) control across the United States. Submitted. Biological Conservation. ([Preprint](https://doi.org/10.21203/rs.3.rs-1998687/v3))
+{29.} **Hudgins, E.J.**, Hanson, J.O., MacQuarrie, C.K., Yemshanov, D., Baker, C., Holden, M.H., McDonald-Madden, E., & Bennett, J. R. Optimal emerald ash borer (*Agrilus planipennis*) control across the United States. In revision. Conservation Science and Practice ([Preprint](https://doi.org/10.21203/rs.3.rs-1998687/v3))
 
-{29.} Ahmed, D.A., Beidas, A., ... **Hudgins, E.J.**, ... & Haase, P. Capture efficiency of pitfall traps based on sampling strategy and the movement of arthropods. Submitted. Methods in Ecology and Evolution.
+{28.} Ahmed, D.A., Beidas, A., ... **Hudgins, E.J.**, ... & Haase, P. Capture efficiency of pitfall traps based on sampling strategy and the movement of arthropods. In press. Methods in Ecology and Evolution.
 
-{28.} Ahmed, D.A., Haubrock, P.J., Cuthbert, R.N. ..., **Hudgins, E.J.**, ..., & Courchamp, F. Recent advances in availability and synthesis of the economic costs of biological invasions. In review. Ecology Letters. ([Preprint](https://doi.org/10.22541/au.167907497.77590504/v1))
+{27.} Ahmed, D.A., Haubrock, P.J., Cuthbert, R.N. ..., **Hudgins, E.J.**, ..., & Courchamp, F. (2023) Recent advances in availability and synthesis of the economic costs of biological invasions. Bioscience  biad060, ([Full text](https://doi.org/10.1093/biosci/biad06))
 
-{27.} Turbelin, A. J.\*, **Hudgins, E. J.**\*, Catford, J. A., Cuthbert, R. N., Diagne, C., Kourantidou, M., Roiz, D., & Courchamp, F. Biological invasions as burdens to primary economic sectors. In review. Global Environmental Change. ([Preprint](https://doi.org/10.21203/rs.3.rs-2444595/v1))
+{26.} Fernandez, R.D., Haubrock, P.J., Cuthbert, R.N., Heringer, G., Kourantidou, M., **Hudgins, E.J.**, Angulo, E., Diagne, C.A., Courchamp, F., & Nuñez, M.A. (2023) Underexplored and growing economic costs of invasive alien trees. Scientific Reports 13 (1), 8945, ([Full text](https://doi.org/10.1038/s41598-023-35802-4))
 
-{26.} Fernandez, R.D., Haubrock, P.J., Cuthbert, R.N., Heringer, G., Kourantidou, M., **Hudgins, E.J.**, Angulo, E., Diagne, C.A., Courchamp, F., & Nuñez, M.A. Underexplored and growing economic costs of invasive alien trees. In Review. Scientific Reports. ([Preprint]( http://dx.doi.org/10.2139/ssrn.4196468))
+{25.} Soto, I., …., **Hudgins, E.J.**, & Briski, E. (2023). The faunal Ponto-Caspianization of European Waterways. Biological Invasions 25, 2613–2629, ([Full text](https://doi.org/10.1007/s10530-023-03060-0))
 
-{25.} Soto, I., …., **Hudgins, E.J.**, & Briski, E. The faunal Ponto-Caspianization of European Waterways. In Revision. Biological Invasions. ([Preprint](https://doi.org/10.21203/rs.3.rs-1702320/v1)) 
+{24.} Braga, P. H. P., Hébert, K., **Hudgins, E. J.**, Scott, E. R., Edwards, B., Sánchez-Reyes, L. L., … , & Crystal-Ornelas, R. (2023). Not just for programmers: How GitHub can accelerate collaborative and reproducible research in ecology and evolution.  Methods in Ecology and Evolution 14 (6), 1364-1380. ([Full text](https://doi.org/10.1111/2041-210X.14108))
 
-{24.} Braga, P. H. P., Hébert, K., **Hudgins, E. J.**, Scott, E. R., Edwards, B., Sánchez-Reyes, L. L., … , & Crystal-Ornelas, R. Not just for programmers: How GitHub can accelerate collaborative and reproducible research in ecology and evolution. Accepted. Methods in Ecology and Evolution ([Preprint](https://doi.org/10.31222/osf.io/x3p2q))
-
-{23.} **Hudgins, E.J.**\*, Cuthbert, R.\*, Haubrock, P.\*, Taylor, N., Kourantidou, M., Nguyen, D., ... & Courchamp, F. The ecological dimension of global trade: origin and recipient regions of biological invasion costs. Accepted in principle. Nature Sustainability. ([Preprint](https://doi.org/10.21203/rs.3.rs-1762292/v1))
+{23.} **Hudgins, E.J.**\*, Cuthbert, R.\*, Haubrock, P.\*, Taylor, N., Kourantidou, M., Nguyen, D., ... & Courchamp, F. (2023). TUnevenly distributed biological invasion costs among origin and recipient regions. Nature Sustainability. ([Full text](https://doi.org/10.1038/s41893-023-01124-6 ))
 **\*joint first author**
 
-{22.} Riva, F. Graco-Roza, C., Daskalova, G., **Hudgins, E.J.**, Lewthwaite, J. M. M., Newman, E. A., Ryo, M., & Mammola, S.  Towards a cohesive understanding of ecological complexity. Resubmitted. Science Advances. ([Preprint](https://ecoevorxiv.org/tzy9k/))
+{22.} Riva, F. Graco-Roza, C., Daskalova, G., **Hudgins, E.J.**, Lewthwaite, J. M. M., Newman, E. A., Ryo, M., & Mammola, S. (2023). Towards a cohesive understanding of ecological complexity. Science Advances 9 (25), eabq4207, ([Full text](https://doi.org/10.1126/sciadv.abq4207))  
 
-{21.} Hudgins, J.A., **Hudgins, E.J.**, Köhnk, S., Mohamed Riyad, E., & Stelfox, M.R. A brighter future? Stable and growing sea turtle populations in the Republic of Maldives. In press. PLoS oNE.
+{21.} Hudgins, J.A., **Hudgins, E.J.**, Köhnk, S., Mohamed Riyad, E., & Stelfox, M.R. (2023). A brighter future? Stable and growing sea turtle populations in the Republic of Maldives. PLoS oNE 18(4) e0283973, ([Full text](https://doi.org/10.1371/journal.pone.0283973))
 
-{20.} Gomes, D.G.E, …, **Hudgins, E.J.**, & Gaynor, K.M. Why don’t we share data and code? Perceived barriers and benefits to public archiving practices. Proceedings of the Royal Society B., 289(1987) ([Full text](https://royalsocietypublishing.org/doi/10.1098/rspb.2022.1113))
+{20.} Gomes, D.G.E, …, **Hudgins, E.J.**, & Gaynor, K.M. Why don’t we share data and code? Perceived barriers and benefits to public archiving practices. Proceedings of the Royal Society B., 289(1987) ([Full text](https://doi.org/10.1098/rspb.2022.1113)
 
 {19.} Hanson, J.O., McCune, J.L., Chadès, I., Proctor, C.A., **Hudgins, E.J.**, & Bennett, J.R., Optimizing ecological surveys for conservation. Journal of Applied Ecology, 60, 41-51 ([Full text](https://doi.org/10.1111/1365-2664.14309))
 
