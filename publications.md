@@ -42,7 +42,7 @@ order: 2
 
 {14.} Turbelin, A.J., Diagne, C., **Hudgins, E.J.**, Moodley, D., Haubrock, P.J., et al.. (2022). Introduction pathways of economically costly invasive alien species. Biological Invasions 24, 2061-2079. ([full text](https://doi.org/10.1007/s10530-022-02796-5))
 
-{13.} **Hudgins, E. J.**, Koch, F.H., Ambrose, M.J., & Leung, B. (2022). Hotspots of pest-induced US urban tree death, 2020-2050. Journal of Applied Ecology. ([full text](https://doi.org/10.1111/1365-2664.14141/))
+{13.} **Hudgins, E. J.**, Koch, F.H., Ambrose, M.J., & Leung, B. (2022). Hotspots of pest-induced US urban tree death, 2020-2050. Journal of Applied Ecology. ([full text](https://doi.org/10.1111/1365-2664.14141))
 
 {12.} Ahmed, D.A.\*, **Hudgins, E.J.**\*, Cuthbert, R.N.\*, Kourantidou, M., Diagne, C., et al. Managing biological invasions: the cost of inaction. Accepted. Biological Invasions. ([full text](https://doi.org/10.1007/s10530-022-02755-0))
 \***joint first author**
