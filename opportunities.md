@@ -13,7 +13,7 @@ order: 5
 
 # Possible project ideas
 
-#### Note: this is only a small list of ideas for projects. If you'd like to propose your own, please [get in touch](mailto:emma.hudgins@unimelb.edu.au). Importantly, I value excitement and curiosity over any pre-existing quantitative skills you may have, so don't shy away from getting in touch if you don't have a modelling or coding background.
+*Note: this is only a small list of ideas for projects. If you'd like to propose your own, please [get in touch](mailto:emma.hudgins@unimelb.edu.au). Importantly, I value excitement and curiosity over any pre-existing quantitative skills you may have, so don't shy away from getting in touch if you don't have a modelling or coding background.*
 
 ## Urban tree risk mapping for the City of Melbourne
 
