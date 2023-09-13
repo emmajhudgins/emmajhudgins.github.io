@@ -17,7 +17,7 @@ order: 5
 
 ## Urban tree risk mapping for the City of Melbourne
 
-<img src="https://www.melbourne.vic.gov.au/SiteCollectionImages/cbd-trees.jpg" alt="Melbourne's urban forest" class="center-fit" width="500"">
+<img src="https://www.melbourne.vic.gov.au/SiteCollectionImages/cbd-trees.jpg" alt="Melbourne's urban forest" class="center-fit" width="500">
 <figcaption>Melbourne's urban forest</figcaption>
 <br><br>
 The [City of Melbourne](https://www.melbourne.vic.gov.au/community/greening-the-city/urban-nature/Pages/nature-in-the-city-strategy.aspx) are interested in understanding pest and weed threats that hamper their commitment to their Nature in the City strategy. Our aim is to produce a web app to visualise pest threats in the City of Melbourne as well as priority areas for management. This would be an extension of their existing [Urban Forest Map](http://melbourneurbanforestvisual.com.au). 
