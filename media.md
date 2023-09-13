@@ -4,7 +4,7 @@ layout: page
 title: "Media"
 permalink: /media
 nav: true
-order: 6
+order: 4
 
 ---
 

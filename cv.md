@@ -4,7 +4,7 @@ layout: page
 title: "CV"
 permalink: /cv
 nav: true
-order: 4
+order: 6
 
 ---
 <object data="https://ejhudgins.com/assets/EmmaHudginsCV2022.pdf" type="application/pdf" width="700px" height="700px">

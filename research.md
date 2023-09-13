@@ -4,7 +4,7 @@ layout: page
 title: "Research"
 permalink: /research
 nav: true
-order: 1
+order: 2
 
 ---
 

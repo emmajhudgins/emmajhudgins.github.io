@@ -4,7 +4,7 @@ layout: page
 title: "Opportunities"
 permalink: /opportunities
 nav: true
-order: 5
+order: 1
 
 ---
 
