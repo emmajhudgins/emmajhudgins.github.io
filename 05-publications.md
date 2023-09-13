@@ -7,6 +7,9 @@ nav: true
 order: 5
 
 ---
+{31.} 
+Bradshaw, C.J.A, Hulme, P.E.,**Hudgins, E.J.**, Leung, B., Kourantidou, M., Courtois, P., Turbelin, A.J., McDermott, S.M., Lee, K., Ahmed, D.A., Latombe, G., Bang, A., Bodey, T.W., Haubrock, P.J., Saltré, F., & Courchamp, F. Weaker economies experience higher relative damage costs arising from biological invasions. Submitted. Ecological Economics.
+
 {30.} Turbelin, A. J.\*, **Hudgins, E. J.**\*, Catford, J. A., Cuthbert, R. N., Diagne, C., Kourantidou, M., Roiz, D., & Courchamp, F. Biological invasions as burdens to primary economic sectors. In review. Global Environmental Change. ([Preprint](https://doi.org/10.21203/rs.3.rs-2444595/v1))
 
 {29.} **Hudgins, E.J.**, Hanson, J.O., MacQuarrie, C.K., Yemshanov, D., Baker, C., Holden, M.H., McDonald-Madden, E., & Bennett, J. R. Optimal emerald ash borer (*Agrilus planipennis*) control across the United States. In revision. Conservation Science and Practice ([Preprint](https://doi.org/10.21203/rs.3.rs-1998687/v3))
