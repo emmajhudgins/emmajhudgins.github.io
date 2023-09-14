@@ -8,10 +8,8 @@ order: 4
 
 ---
 
-# [Join me for a webinar Wednesday, September 13 at 4pm Eastern Time!](https://www.dontmovefirewood.org/webinar_morebugsarecoming/)
-
-
 ## Recorded talks
+- [More Bugs are Coming - The Nature Conservancy Webinar (recording coming soon)](https://www.dontmovefirewood.org/webinar_morebugsarecoming/)
 - [Invasive Species Centre invited talk (2023)](https://www.youtube.com/watch?v=IPSWpRXVgqI)
 - [IPRRG invited webinar (2022)](https://www.youtube.com/watch?v=uPpmb_2YjBQ)
 - [Invasive Species Centre invited talk (2022)](https://youtu.be/F65PmhL8ueQ?t=1352)
