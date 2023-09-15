@@ -8,7 +8,7 @@ order: 2
 
 ---
 
-# Justin Kreller – MSc (co-supervised with Joe Bennett, Carleton University) 
+# Justin Kreller – MSc Student (co-supervised with Joe Bennett, Carleton University) 
 
 <img src="/assets/justin.jpeg" alt="Justin along a beach" class="center-fit" width="500">
 
