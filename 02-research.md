@@ -1,8 +1,8 @@
 ---
 
 layout: page
-title: "People"
-permalink: /people
+title: "Research"
+permalink: /research
 nav: true
 order: 2
 
