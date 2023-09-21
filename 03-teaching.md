@@ -16,7 +16,7 @@ order: 3
 
 * ISAP 2002. Winter 2023. (in person) Carleton University. Research Principles for Interdisciplinary Science. [syllabus]({{ site.url  }}/assets/ISAP_2002_Syllabus_2023.pdf)
 
-* ENSC 2002. Fall 2021. (hybrid) Carleton University. Environmental Methods and Analysis. [syllabus]({{ site.url  }}/assets/ENSC_2002_Fall_2021_syllabus.pdf)
+* ENSC 2002. Fall 2021. (hybrid) Carleton University. Environmental Methods and Analysis. [syllabus]({{ site.url  }}/assets/ENSC_2002_Fall 2021_syllabus.pdf)
 
 ## Workshops
 
