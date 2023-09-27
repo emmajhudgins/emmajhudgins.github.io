@@ -13,7 +13,7 @@ order: 5
 
 {29.} **Hudgins, E.J.**, Hanson, J.O., MacQuarrie, C.K., Yemshanov, D., Baker, C., Holden, M.H., McDonald-Madden, E., & Bennett, J. R. Optimal emerald ash borer (*Agrilus planipennis*) control across the United States. In revision. Conservation Science and Practice ([Preprint](https://doi.org/10.21203/rs.3.rs-1998687/v3))
 
-{28.} Ahmed, D.A., Beidas, A., ... **Hudgins, E.J.**, ... & Haase, P. Capture efficiency of pitfall traps based on sampling strategy and the movement of arthropods. In press. Methods in Ecology and Evolution.
+{28.} Ahmed, D.A., Beidas, A., ... **Hudgins, E.J.**, ... & Haase, P. Capture efficiency of pitfall traps based on sampling strategy and the movement of arthropods.Methods in Ecology and Evolution. ([Full text](https://doi.org/10.1111/2041-210X.14174))
 
 {27.} Ahmed, D.A., Haubrock, P.J., Cuthbert, R.N. ..., **Hudgins, E.J.**, ..., & Courchamp, F. (2023) Recent advances in availability and synthesis of the economic costs of biological invasions. Bioscience  biad060, ([Full text](https://doi.org/10.1093/biosci/biad06))
 
