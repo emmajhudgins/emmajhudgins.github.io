@@ -7,7 +7,7 @@ nav: true
 order: 5
 
 ---
-{31.} Bradshaw, C.J.A, Hulme, P.E.,**Hudgins, E.J.**, Leung, B., Kourantidou, M., Courtois, P., Turbelin, A.J., McDermott, S.M., Lee, K., Ahmed, D.A., Latombe, G., Bang, A., Bodey, T.W., Haubrock, P.J., Saltré, F., & Courchamp, F. Weaker economies experience higher relative damage costs arising from biological invasions. Submitted. Ecological Economics.
+{31.} Bradshaw, C.J.A, Hulme, P.E.,**Hudgins, E.J.**, Leung, B., Kourantidou, M., Courtois, P., Turbelin, A.J., McDermott, S.M., Lee, K., Ahmed, D.A., Latombe, G., Bang, A., Bodey, T.W., Haubrock, P.J., Saltré, F., & Courchamp, F. Weaker economies experience higher relative damage costs arising from biological invasions. in review. Ecological Economics. ([Preprint](http://dx.doi.org/10.2139/ssrn.4587717))
 
 {30.} Turbelin, A. J.\*, **Hudgins, E. J.**\*, Catford, J. A., Cuthbert, R. N., Diagne, C., Kourantidou, M., Roiz, D., & Courchamp, F. Biological invasions as burdens to primary economic sectors. In review. Global Environmental Change. ([Preprint](https://doi.org/10.21203/rs.3.rs-2444595/v1))
 
