@@ -9,20 +9,20 @@ order: 5
 ---
 
 {37.} Buxton, R.*, **Hudgins, E.J.***, Lavigne, E., Villeneuve, P.J., Prince, S. A., Pearson, A.L., … & Bennett, J.R. Mental health is positively associated with biodiversity in Canadian cities. Resubmitted. Communications Earth & Environment.
-*joint first author
- 
-{36.} Buxton, R*, Odenigbo, C.*, **Hudgins, E.J.**, Robichaud, C., Mazumder, R., Cooke, S. J...., & Bennett, J.R. An action-oriented research agenda for equitable and meaningful nature-based solutions in urban areas. Resubmitted. People and Nature.
- 
-{35.} Turbelin, A. J.*, **Hudgins, E. J.***, Catford, J.A., Cuthbert, R. N., Diagne, C., Kourantidou, M., …, & Courchamp, F. Biological invasions as burdens to primary economic sectors. Resubmitted. Global Environmental Change. Preprint: https://doi.org/10.21203/rs.3.rs-2444595/v1
- 
-{34.} Bennett, J.R., Edwards, B.P.M,  Bergman, J.N., Binley, A.D., Buxton, R.T., Hanna, D.E.L, …, **Hudgins, E.J.** …, & Rytwinski, T. How ignoring detection probability hurts biodiversity conservation. In press. Frontiers in Ecology and the Environment.
- 
-{33.} Haubrock, P.J., Soto, I., Ahmed, D.A., Ansari, A., Tarkan, A.S., Kurtul, I., ..., **Hudgins, E.J.**, ... Cuthbert, R. N. Invasions are a population-level rather than a species-level phenomenon. Accepted. Global Change Biology.
- 
-{32.} Haubrock, P. J., Cuthbert, R. N., Balzani, P., Briski, E., Cano-Barbacil, C., De Santis, V., **Hudgins, E.J.**, ... & Tarkan, A. S. (2024). Discrepancies between non-native and invasive species classifications. Biological Invasions, 26(2), 371-384. ([full text](https://doi.org/10.1007/s10530-023-03184-3))
-
-{31.} Soto, I., Balzani, P., Oficialdegui, F. J., Molinero, C., Kouba, A., Ahmed, D. A., …, **Hudgins, E. J.**, … , & Haubrock, P.J. (2024). The wild cost of invasive feral animals worldwide. Science of the Total Environment, 912, 169281, https://doi.org/10.1016/j.scitotenv.2023.169281
- 
+*joint first author 
+ 
+{36.} Buxton, R*, Odenigbo, C.*, **Hudgins, E.J.**, Robichaud, C., Mazumder, R., Cooke, S. J...., & Bennett, J.R. An action-oriented research agenda for equitable and meaningful nature-based solutions in urban areas. Resubmitted. People and Nature. 
+ 
+{35.} Turbelin, A. J.*, **Hudgins, E. J.***, Catford, J.A., Cuthbert, R. N., Diagne, C., Kourantidou, M., …, & Courchamp, F. Biological invasions as burdens to primary economic sectors. Resubmitted. Global Environmental Change. Preprint: https://doi.org/10.21203/rs.3.rs-2444595/v1 
+  
+{34.} Bennett, J.R., Edwards, B.P.M,  Bergman, J.N., Binley, A.D., Buxton, R.T., Hanna, D.E.L, …, **Hudgins, E.J.** …, & Rytwinski, T. How ignoring detection probability hurts biodiversity conservation. In press. Frontiers in Ecology and the Environment. 
+  
+{33.} Haubrock, P.J., Soto, I., Ahmed, D.A., Ansari, A., Tarkan, A.S., Kurtul, I., ..., **Hudgins, E.J.**, ... Cuthbert, R. N. Invasions are a population-level rather than a species-level phenomenon. Accepted. Global Change Biology. 
+  
+{32.} Haubrock, P. J., Cuthbert, R. N., Balzani, P., Briski, E., Cano-Barbacil, C., De Santis, V., **Hudgins, E.J.**, ... & Tarkan, A. S. (2024). Discrepancies between non-native and invasive species classifications. Biological Invasions, 26(2), 371-384. ([full text](https://doi.org/10.1007/s10530-023-03184-3)) 
+ 
+{31.} Soto, I., Balzani, P., Oficialdegui, F. J., Molinero, C., Kouba, A., Ahmed, D. A., …, **Hudgins, E. J.**, … , & Haubrock, P.J. (2024). The wild cost of invasive feral animals worldwide. Science of the Total Environment, 912, 169281, https://doi.org/10.1016/j.scitotenv.2023.169281 
+  
 {30.} Bradshaw, C.J.A, Hulme, P.E.,**Hudgins, E.J.**, Leung, B., Kourantidou, M., Courtois, P., Turbelin, A.J., McDermott, S.M., Lee, K., Ahmed, D.A., Latombe, G., Bang, A., Bodey, T.W., Haubrock, P.J., Saltré, F., & Courchamp, F. (2024). Weaker economies experience higher relative damage costs arising from biological invasions. Ecological Economics 220, 108166. ([full text](https://doi.org/10.1016/j.ecolecon.2024.108166))
 
 {29.} **Hudgins, E.J.**, Hanson, J.O., MacQuarrie, C.K., Yemshanov,D., Baker, C., Holden, M.H., McDonald-Madden, E., & Bennett, J. R. (2024). Spread management priorities to limit emerald ash borer (Agrilus planipennis) impacts on United States street trees. Conservation Science and Practice e13087. ([full text](https://doi.org/10.1111/csp2.13087))
