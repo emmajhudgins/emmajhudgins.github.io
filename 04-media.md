@@ -19,8 +19,13 @@ order: 4
 
 ## Selected press on peer-reviewed publications
 
+Coverage of *Hudgins, E.J., et al. (2024). Spread management priorities to limit emerald ash borer (Agrilus planipennis) impacts on United States street trees. Conservation Science and Practice e13087.* ([full text](https://doi.org/10.1111/csp2.13087))
 
-Coverage of *Soto, I.,..., Hudgins, E.J.*, et al. (2022) Global economic costs of herpetofauna invasions. Scientific Reports 12, 10829.* ([full text](https://doi.org/10.1038/s41598-022-15079-9)) 
+Print
+-[Entomology Today](https://entomologytoday.org/2024/03/14/quarantines-firewood-key-emerald-ash-borer-control/)
+
+
+Coverage of *Soto, I.,..., Hudgins, E.J., et al. (2022) Global economic costs of herpetofauna invasions. Scientific Reports 12, 10829.*([full text](https://doi.org/10.1038/s41598-022-15079-9)) 
 
 Print
 - [The Conversation Canada](https://theconversation.com/invasive-reptile-and-amphibian-species-are-causing-billions-of-dollars-in-damages-globally-188680)

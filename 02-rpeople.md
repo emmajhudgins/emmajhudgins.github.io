@@ -18,3 +18,5 @@ Justin joined the team in our inaugural semester (September 2023) after being se
 Like most biology students, Justin enjoys being outdoors and performing fieldwork, notably through recent work as a Student Biologist at the [National Capital Commission](https://ncc-ccn.gc.ca). Justin also makes regular contributions to the [Ontario Breeding Bird Atlas](https://www.birdsontario.org), a project that has enabled him to take part in a canoe trip along the upper Winisk River as well as survey northeastern Ontario as a Wildlife Technician. It is this same passion for the environment that had pushed Justin to shift his career path towards conservation and pursue Fish & Wildlife Conservation Technician studies at Sault College (OCD, 2023) following his degree in Biomedical Mechanical Engineering from the University of Ottawa (BASc, 2020).  
  
 Outside of school and work, Justin can be found practicing sports, birding, camping/hiking, reading, enjoying music, or walking his sweet German shepherd, Atlas. 
+
+# Jannie (Thu Trang) Phan – MEnv Literature Review Student (co-supervised with Prof. Michael McCarthy) 

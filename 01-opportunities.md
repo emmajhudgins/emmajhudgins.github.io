@@ -45,15 +45,6 @@ In Canada, an insect called the Mountain Pine Beetle is moving Eastward under cl
 
 With the Center for Excellence in Biosecurity Risk Analysis at the University of Melbourne, there is the potential to expand this framework to examine insurance payments undertaken by companies that move potentially infested items within Australia to allow win-wins for business and native biodiversity.
 
-## Where will trees move under climate change and how should we protect them to facilitate successful movement? (PhD project)
-
-<img src="/assets/projectpics/rangeshiftmodels1.jpg" alt="Climate Projections for Australia" class="center-fit" width="500">
-<figcaption>Climate projections for Australia from Vanderwal et al. (2013) Nature Reports Climate Change</figcaption><img src="/assets/projectpics/rangeshiftmodels.jpg" alt="Australian Plant Range Shift Projections" class="center-fit" width="500">
-<figcaption>Australian plant range shift projections from Butt, Pollock & MacAlpine (2013) Ecology and Evolution </figcaption>
-
-Recent projections show major shifts in the habitat suitability for trees across North America due to climate change. However, taken as is, they assume trees can immediately respond to climate change. I'm currently working to combine these models to quantify our best understanding tree range shift predictions, their uncertainty, and what they mean for management. These shifting ranges could mean that new areas will be preferred sites for monitoring or management interventions compared to current priorities. Interestingly, a Northward shift in the ranges of Canada’s trees could allow for cheaper land to become more valuable from a conservation perspective. The Canadian arm of the project is already funded through a Canadian National Science and Engineering Research Council's Alliance granting scheme with partners at Environment and Climate Change Canada and the Nature Conservancy of Canada, but the aim would be to expand it to the Australian context.
-
-This project would combine several highly uncertain tree and climate datasets with tree dispersal models built from the recently created BIOShifts database to  estimate future tree distributions in a way that accounts for seed dispersal capacity. These models would use my existing invasive species dispersal modelling framework as a basis. The creation of these more complex models with uncertainty can help answer the question of whether conservation actions targeting trees should be changed to account for the predicted shift in their distributions. These include interventions like protected area establishment, monitoring activities, and active tree planting.
 
 
 ## Optimal spread control of Australian forest pests (MSc or PhD projects)

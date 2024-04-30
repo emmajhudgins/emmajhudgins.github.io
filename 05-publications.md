@@ -7,11 +7,25 @@ nav: true
 order: 5
 
 ---
-{31.} Bradshaw, C.J.A, Hulme, P.E.,**Hudgins, E.J.**, Leung, B., Kourantidou, M., Courtois, P., Turbelin, A.J., McDermott, S.M., Lee, K., Ahmed, D.A., Latombe, G., Bang, A., Bodey, T.W., Haubrock, P.J., Saltré, F., & Courchamp, F. Weaker economies experience higher relative damage costs arising from biological invasions. in review. Ecological Economics. ([Preprint](http://dx.doi.org/10.2139/ssrn.4587717))
 
-{30.} Turbelin, A. J.\*, **Hudgins, E. J.**\*, Catford, J. A., Cuthbert, R. N., Diagne, C., Kourantidou, M., Roiz, D., & Courchamp, F. Biological invasions as burdens to primary economic sectors. In review. Global Environmental Change. ([Preprint](https://doi.org/10.21203/rs.3.rs-2444595/v1))
+{37.} Buxton, R.*, **Hudgins, E.J.***, Lavigne, E., Villeneuve, P.J., Prince, S. A., Pearson, A.L., … & Bennett, J.R. Mental health is positively associated with biodiversity in Canadian cities. Resubmitted. Communications Earth & Environment.
+*joint first author
+ 
+{36.} Buxton, R*, Odenigbo, C.*, **Hudgins, E.J.**, Robichaud, C., Mazumder, R., Cooke, S. J...., & Bennett, J.R. An action-oriented research agenda for equitable and meaningful nature-based solutions in urban areas. Resubmitted. People and Nature.
+ 
+{35.} Turbelin, A. J.*, **Hudgins, E. J.***, Catford, J.A., Cuthbert, R. N., Diagne, C., Kourantidou, M., …, & Courchamp, F. Biological invasions as burdens to primary economic sectors. Resubmitted. Global Environmental Change. Preprint: https://doi.org/10.21203/rs.3.rs-2444595/v1
+ 
+{34.} Bennett, J.R., Edwards, B.P.M,  Bergman, J.N., Binley, A.D., Buxton, R.T., Hanna, D.E.L, …, **Hudgins, E.J.** …, & Rytwinski, T. How ignoring detection probability hurts biodiversity conservation. In press. Frontiers in Ecology and the Environment.
+ 
+{33.} Haubrock, P.J., Soto, I., Ahmed, D.A., Ansari, A., Tarkan, A.S., Kurtul, I., ..., **Hudgins, E.J.**, ... Cuthbert, R. N. Invasions are a population-level rather than a species-level phenomenon. Accepted. Global Change Biology.
+ 
+{32.} Haubrock, P. J., Cuthbert, R. N., Balzani, P., Briski, E., Cano-Barbacil, C., De Santis, V., **Hudgins, E.J.**, ... & Tarkan, A. S. (2024). Discrepancies between non-native and invasive species classifications. Biological Invasions, 26(2), 371-384. ([full text](https://doi.org/10.1007/s10530-023-03184-3))
 
-{29.} **Hudgins, E.J.**, Hanson, J.O., MacQuarrie, C.K., Yemshanov, D., Baker, C., Holden, M.H., McDonald-Madden, E., & Bennett, J. R. Optimal emerald ash borer (*Agrilus planipennis*) control across the United States. In revision. Conservation Science and Practice ([Preprint](https://doi.org/10.21203/rs.3.rs-1998687/v3))
+{31.} Soto, I., Balzani, P., Oficialdegui, F. J., Molinero, C., Kouba, A., Ahmed, D. A., …, **Hudgins, E. J.**, … , & Haubrock, P.J. (2024). The wild cost of invasive feral animals worldwide. Science of the Total Environment, 912, 169281, https://doi.org/10.1016/j.scitotenv.2023.169281
+ 
+{30.} Bradshaw, C.J.A, Hulme, P.E.,**Hudgins, E.J.**, Leung, B., Kourantidou, M., Courtois, P., Turbelin, A.J., McDermott, S.M., Lee, K., Ahmed, D.A., Latombe, G., Bang, A., Bodey, T.W., Haubrock, P.J., Saltré, F., & Courchamp, F. (2024). Weaker economies experience higher relative damage costs arising from biological invasions. Ecological Economics 220, 108166. ([full text](https://doi.org/10.1016/j.ecolecon.2024.108166))
+
+{29.} **Hudgins, E.J.**, Hanson, J.O., MacQuarrie, C.K., Yemshanov,D., Baker, C., Holden, M.H., McDonald-Madden, E., & Bennett, J. R. (2024). Spread management priorities to limit emerald ash borer (Agrilus planipennis) impacts on United States street trees. Conservation Science and Practice e13087. ([full text](https://doi.org/10.1111/csp2.13087))
 
 {28.} Ahmed, D.A., Beidas, A., ... **Hudgins, E.J.**, ... & Haase, P. Capture efficiency of pitfall traps based on sampling strategy and the movement of arthropods.Methods in Ecology and Evolution. ([Full text](https://doi.org/10.1111/2041-210X.14174))
 
@@ -30,9 +44,9 @@ order: 5
 
 {21.} Hudgins, J.A., **Hudgins, E.J.**, Köhnk, S., Mohamed Riyad, E., & Stelfox, M.R. (2023). A brighter future? Stable and growing sea turtle populations in the Republic of Maldives. PLoS oNE 18(4) e0283973, ([Full text](https://doi.org/10.1371/journal.pone.0283973))
 
-{20.} Gomes, D.G.E, …, **Hudgins, E.J.**, & Gaynor, K.M. Why don’t we share data and code? Perceived barriers and benefits to public archiving practices. Proceedings of the Royal Society B., 289(1987) ([Full text](https://doi.org/10.1098/rspb.2022.1113)
+{20.} Hanson, J.O., McCune, J.L., Chadès, I., Proctor, C.A., **Hudgins, E.J.**, & Bennett, J.R. (2023). Optimizing ecological surveys for conservation. Journal of Applied Ecology, 60, 41-51 ([Full text](https://doi.org/10.1111/1365-2664.14309))
 
-{19.} Hanson, J.O., McCune, J.L., Chadès, I., Proctor, C.A., **Hudgins, E.J.**, & Bennett, J.R., Optimizing ecological surveys for conservation. Journal of Applied Ecology, 60, 41-51 ([Full text](https://doi.org/10.1111/1365-2664.14309))
+{19.} Gomes, D.G.E, …, **Hudgins, E.J.**, & Gaynor, K.M. (2022). Why don’t we share data and code? Perceived barriers and benefits to public archiving practices. Proceedings of the Royal Society B., 289(1987) ([Full text](https://doi.org/10.1098/rspb.2022.1113)
 
 {18.} Palacio, F., Callaghan, C.T., Cardoso, P., **Hudgins, E.J.**, Jarzyna, M., Ottaviani, G., Riva, F., Roza, C., Shirey, V., & Mammola, S. (2022). A protocol for reproducible functional diversity analyses. Ecography e06287. ([full text](https://doi.org/10.1111/ecog.06287))
 
@@ -75,6 +89,12 @@ order: 5
 \* equivalent contribution
 
 **Oral Presentations**
+
+**Hudgins, E.J.**, Management priorities to limit the impacts of Emerald Ash Borer on US street trees Presented at the Western EAB Cooperators Meeting, 29 March 2024. Invited presentation.
+
+**Hudgins, E.J.**, Using Spatial Information to Protect our Environment, 18 March 2024. Arthur Rylah Institute Seminar. Invited presentation.
+ 
+**Hudgins, E.J.**, Spread management priorities to limit Emerald Ash Borer Impacts to US Street Trees. Science Early Career Research Summit, 20 February 2024. Winner - best oral presentation.
 
 * **Hudgins, E.J.**. North American forest invader spread, impacts, and management priorities for urban resilience. Presented at the Australian Department of Agriculture, Fisheries, and Forestry Plant Health Division Meeting, March 29th, 2023.
 
