@@ -29,7 +29,7 @@ This project will combine several highly uncertain tree and climate datasets wit
 
 ## Urban tree risk mapping for the City of Melbourne (Honours or Masters project)
 
-<img src="UF_HD_thermal.jpg" alt="Melbourne's urban heat" class="center-fit" width="500">
+<img src="/assets/UF_HD_thermal.jpg" alt="Melbourne's urban heat" class="center-fit" width="500">
 <figcaption>Melbourne's urban heat</figcaption>
 <br><br>
 The [City of Melbourne](https://www.melbourne.vic.gov.au/community/greening-the-city/urban-nature/Pages/nature-in-the-city-strategy.aspx) are interested in understanding pest and weed threats that hamper their commitment to their Urban Forest strategy. Our aim is to produce a web app to visualise pest threats in the City of Melbourne as well as priority areas for management. This would be an extension of their existing [Urban Forest Map](http://melbourneurbanforestvisual.com.au). 
