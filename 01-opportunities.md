@@ -15,15 +15,6 @@ order: 1
 
 *Note: this is only a small list of ideas for projects. If you'd like to propose your own, please [get in touch](mailto:emma.hudgins@unimelb.edu.au). Importantly, I value excitement and curiosity over any pre-existing quantitative skills you may have, so don't shy away from getting in touch if you don't have a modelling or coding background.*
 
-## Urban tree risk mapping for the City of Melbourne (Honours or Masters project)
-
-<img src="https://www.melbourne.vic.gov.au/SiteCollectionImages/cbd-trees.jpg" alt="Melbourne's urban forest" class="center-fit" width="500">
-<figcaption>Melbourne's urban forest</figcaption>
-<br><br>
-The [City of Melbourne](https://www.melbourne.vic.gov.au/community/greening-the-city/urban-nature/Pages/nature-in-the-city-strategy.aspx) are interested in understanding pest and weed threats that hamper their commitment to their Urban Forest strategy. Our aim is to produce a web app to visualise pest threats in the City of Melbourne as well as priority areas for management. This would be an extension of their existing [Urban Forest Map](http://melbourneurbanforestvisual.com.au). 
-
-The City of Melbourne's urban tree inventory will be overlaid with pest and weed survey data, which will be fed into models to forecast future threat scenarios. The student will be in charge of building these pest spread and tree distributional models by extending models I've already published. All of these data and model outputs will be used to develop a web app in Shiny or similar for City of Melbourne residents to examine pest threats near them and inform municipal planning for urban plant health. We intend to make the web app available through the City of Melbourne's webpage and through an open source GitHub repository (or equivalent).
-
 
 ## Developing biosecurity best practices for the edible insect industry (PhD project)
 
