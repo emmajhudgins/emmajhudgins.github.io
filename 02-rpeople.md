@@ -47,6 +47,15 @@ Steven Myburgh is a PhD researcher conducting a socio-ecological systems modelli
 
 Steven's academic interests include: interactions between global change drivers; biodiversity implications of habitat fragmentation and conservation in managed landscapes; implementation of multilateral environmental agreements and transdisciplinary research for sustainability. In his spare time, Steven likes food gardening, going on food adventures around Melbourne, learning new (and exotic) musical instruments and taking advantage of Victoria's natural assets by getting out into nature.
 
+## Lucia Valdes Saucedo - PhD Student (co-supervised by Prof. Michael McCarthy)
+
+<img src="/assets/Lucia.jpeg" alt="Lucia on a hike with her dog (Duke)" class="center-fit" width="500">
+
+My name is Lucia Valdes Saucedo, I am a PhD student at QAEco, University of Melbourne. During my Masters, I worked with community ecology and functional diversity in coral reefs. My main interests are statistics and mathematical modelling. I enjoy learning from other fields, so I also have basic knowledge of medicine, immunology, ethology, veterinary medicine, sexology, psychology, and other random areas. As part of my PhD, I am currently working with Emma and Mick to train a deep learning model to detect invasive species (plants) and estimate which visual features are most important for their detectability.
+
+My tastes are very varied, but in general, I enjoy anime, manga, reading, walking with my dog (Duke), BTS, and documentaries.
+
+
 ## Luping Zhang - PhD Student (co-supervised by Prof. Michael McCarthy)
 
 <img src="/assets/Luping.jpeg" alt="Luping at Disney World" class="center-fit" width="500">
