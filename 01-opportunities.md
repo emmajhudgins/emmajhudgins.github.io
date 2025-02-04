@@ -16,15 +16,6 @@ order: 1
 *Note: this is only a small list of ideas for projects. If you'd like to propose your own, please [get in touch](mailto:emma.hudgins@unimelb.edu.au). Importantly, I value excitement and curiosity over any pre-existing quantitative skills you may have, so don't shy away from getting in touch if you don't have a modelling or coding background.*
 
 
-## Developing biosecurity best practices for the edible insect industry (PhD project)
-
-
-<img src="https://agrifutures.com.au/wp-content/uploads/2022/11/growAG-Highlights-text-image.png" alt="black soldier fly on a leaf" class="center-fit" width="500">
-<figcaption>Black soldier fly, proposed as means to increase the value of food waste, Courtesy of AgriFutures Australia</figcaption> 
-<br><br>
-Edible insects have been proposed as a solution to the increased need for protein in response to human population growth. The insect industry has the potential to become a [major rural industry in Australia](https://agrifutures.com.au/product/australian-insect-industry-rde-plan-2023-2028/) and provide a more sustainable alternative to traditional farming practices. However, the import and rearing of non-native insects for food and feed, like the import of any crop or livestock for agricultural purposes, is at risk of becoming a major pathway for the introduction of devastating invasive species into Australia's native ecosystems. To ensure this industry can deliver what it promises for sustainability while averting detrimental impacts on native biodiversity, we must understand the biosecurity risks of the insect industry and how to mitigate them. I am interested in developing a set of models of invasion risk of key potential agricultural import species such as the [black soldier fly, *Hermetia illucens*](https://agrifutures.com.au/product/fact-sheet-small-scale-drying-methods-for-black-soldier-fly-larvae/) to understand their economic and ecological consequences. It will be key to understand the likelihood of establishment success outside rearing facilities, the extent and location of potential suitable habitat, and the locations of key native competitors in Australia. In doing so, we can begin outlining the highest-risk incursion areas to ensure that rearing facilities are planned for lower-risk areas. 
-
-
 ## Cooperative management of invasive species spread (Masters or Honours project)
 
 <img src="/assets/projectpics/mpb.jpg" alt="Mountain Pine Beetle" class="center-fit" width="500">
