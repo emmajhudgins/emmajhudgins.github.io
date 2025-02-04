@@ -10,6 +10,10 @@ order: 2
 
 # Current Students
 
+## Erik Alonso - PhD Student
+
+I will be commencing my PhD program in mid February. The project will be based around developing biosecurity best practices for the edible insect industry, funded by AgriFutures. The project aims to develop guidelines for best practice at the rearing and transport stages and develop suitability models to understand risk areas. I have a background in GIS with some experience with modelling. I have worked for Vic Government for the past 5 years or so, mostly with DEECA, but also in the emergency management space.
+
 ## Justin Kreller – MSc Student (co-supervised with Joe Bennett, Carleton University) 
 
 <img src="/assets/justin.jpeg" alt="Justin along a beach" class="center-fit" width="500">
