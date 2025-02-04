@@ -7,33 +7,38 @@ nav: true
 order: 5
 
 ---
+ 
 
-{37.} Buxton, R.*, **Hudgins, E.J.***, Lavigne, E., Villeneuve, P.J., Prince, S. A., Pearson, A.L., … & Bennett, J.R. Mental health is positively associated with biodiversity in Canadian cities. Resubmitted. Communications Earth & Environment.
+{39.} Buxton, R*, Odenigbo, C.*, **Hudgins, E.J.**, Robichaud, C., Mazumder, R., Cooke, S. J...., & Bennett, J.R. An action-oriented research agenda for equitable and meaningful nature-based solutions in urban areas. Rejected after resubmission. People and Nature.  
+
+{38.} Bodey, T., Cuthbert, R., Diagne, C., Marino, C., Turbelin, A., Angulo, E., ... & **Hudgins, E. J.** Predicting the global economic costs of biological invasions by tetrapods. In press, Science of the Total Environment. Preprint: https://doi.org/10.1101/2024.08.15.606318 
+
+{37.} Buxton, R.*, **Hudgins, E.J.***, Lavigne, E., Villeneuve, P.J., Prince, S. A., Pearson, A.L., … & Bennett, J.R. Mental health is positively associated with biodiversity in Canadian cities. Communications Earth & Environment 5(1), 310. ([full text](https://doi.org/10.1038/s43247-024-01482-9))
 *joint first author 
+
+{36.} Turbelin, A. J.*, **Hudgins, E. J.***, Catford, J.A., Cuthbert, R. N., Diagne, C., Kourantidou, M., …, & Courchamp, F. Biological invasions as burdens to primary economic sectors.  Global Environmental Change. 87, 102858. ([full text](https://doi.org/10.1016/j.gloenvcha.2024.102858))  
+
+{35.} **Hudgins, E. J.**, Leung, B., MacQuarrie, C. J., McCullough, D. G., Francis, A., Lovett, G. M., ... & Bennett, J. R. (2024). Five organizing themes for invasive forest insect and disease management in Canada and the United States. Forest Ecology and Management, 566, 122046. ([full text](https://doi.org/10.1016/j.foreco.2024.122046))  
+
+{34.} Bennett, J.R., Edwards, B.P.M,  Bergman, J.N., Binley, A.D., Buxton, R.T., Hanna, D.E.L, …, **Hudgins, E.J.** …, & Rytwinski, T. How ignoring detection probability hurts biodiversity conservation. Frontiers in Ecology and the Environment 22(8), e2782. ([full text](https://doi.org/10.1002/fee.2782))  
+  
+{33.} Haubrock, P.J., Soto, I., Ahmed, D.A., Ansari, A., Tarkan, A.S., Kurtul, I., ..., **Hudgins, E.J.**, ... Cuthbert, R. N. Invasions are a population-level rather than a species-level phenomenon. Global Change Biology 30(5), e17312. ([full text]()https://doi.org/10.1111/gcb.17312) 
+  
+{32.} Haubrock, P. J., Cuthbert, R. N., Balzani, P., Briski, E., Cano-Barbacil, C., De Santis, V., **Hudgins, E.J.**, ... & Tarkan, A. S. (2024). Discrepancies between non-native and invasive species classifications. Biological Invasions, 26(2), 371-384. ([full text](https://doi.org/10.1007/s10530-023-03184-3))   
  
-{36.} Buxton, R*, Odenigbo, C.*, **Hudgins, E.J.**, Robichaud, C., Mazumder, R., Cooke, S. J...., & Bennett, J.R. An action-oriented research agenda for equitable and meaningful nature-based solutions in urban areas. Resubmitted. People and Nature. 
- 
-{35.} Turbelin, A. J.*, **Hudgins, E. J.***, Catford, J.A., Cuthbert, R. N., Diagne, C., Kourantidou, M., …, & Courchamp, F. Biological invasions as burdens to primary economic sectors. Resubmitted. Global Environmental Change. Preprint: https://doi.org/10.21203/rs.3.rs-2444595/v1 
+{31.} Soto, I., Balzani, P., Oficialdegui, F. J., Molinero, C., Kouba, A., Ahmed, D. A., …, **Hudgins, E. J.**, … , & Haubrock, P.J. (2024). The wild cost of invasive feral animals worldwide. Science of the Total Environment, 912, 169281, https://doi.org/10.1016/j.scitotenv.2023.169281   
   
-{34.} Bennett, J.R., Edwards, B.P.M,  Bergman, J.N., Binley, A.D., Buxton, R.T., Hanna, D.E.L, …, **Hudgins, E.J.** …, & Rytwinski, T. How ignoring detection probability hurts biodiversity conservation. In press. Frontiers in Ecology and the Environment. 
-  
-{33.} Haubrock, P.J., Soto, I., Ahmed, D.A., Ansari, A., Tarkan, A.S., Kurtul, I., ..., **Hudgins, E.J.**, ... Cuthbert, R. N. Invasions are a population-level rather than a species-level phenomenon. Accepted. Global Change Biology. 
-  
-{32.} Haubrock, P. J., Cuthbert, R. N., Balzani, P., Briski, E., Cano-Barbacil, C., De Santis, V., **Hudgins, E.J.**, ... & Tarkan, A. S. (2024). Discrepancies between non-native and invasive species classifications. Biological Invasions, 26(2), 371-384. ([full text](https://doi.org/10.1007/s10530-023-03184-3)) 
- 
-{31.} Soto, I., Balzani, P., Oficialdegui, F. J., Molinero, C., Kouba, A., Ahmed, D. A., …, **Hudgins, E. J.**, … , & Haubrock, P.J. (2024). The wild cost of invasive feral animals worldwide. Science of the Total Environment, 912, 169281, https://doi.org/10.1016/j.scitotenv.2023.169281 
-  
-{30.} Bradshaw, C.J.A, Hulme, P.E.,**Hudgins, E.J.**, Leung, B., Kourantidou, M., Courtois, P., Turbelin, A.J., McDermott, S.M., Lee, K., Ahmed, D.A., Latombe, G., Bang, A., Bodey, T.W., Haubrock, P.J., Saltré, F., & Courchamp, F. (2024). Weaker economies experience higher relative damage costs arising from biological invasions. Ecological Economics 220, 108166. ([full text](https://doi.org/10.1016/j.ecolecon.2024.108166))
+{30.} Bradshaw, C.J.A, Hulme, P.E.,**Hudgins, E.J.**, Leung, B., Kourantidou, M., Courtois, P., Turbelin, A.J., McDermott, S.M., Lee, K., Ahmed, D.A., Latombe, G., Bang, A., Bodey, T.W., Haubrock, P.J., Saltré, F., & Courchamp, F. (2024). Weaker economies experience higher relative damage costs arising from biological invasions. Ecological Economics 220, 108166. ([full text](https://doi.org/10.1016/j.ecolecon.2024.108166))  
 
-{29.} **Hudgins, E.J.**, Hanson, J.O., MacQuarrie, C.K., Yemshanov,D., Baker, C., Holden, M.H., McDonald-Madden, E., & Bennett, J. R. (2024). Spread management priorities to limit emerald ash borer (Agrilus planipennis) impacts on United States street trees. Conservation Science and Practice e13087. ([full text](https://doi.org/10.1111/csp2.13087))
+{29.} **Hudgins, E.J.**, Hanson, J.O., MacQuarrie, C.K., Yemshanov,D., Baker, C., Holden, M.H., McDonald-Madden, E., & Bennett, J. R. (2024). Spread management priorities to limit emerald ash borer (Agrilus planipennis) impacts on United States street trees. Conservation Science and Practice e13087. ([full text](https://doi.org/10.1111/csp2.13087))  
 
-{28.} Ahmed, D.A., Beidas, A., ... **Hudgins, E.J.**, ... & Haase, P. Capture efficiency of pitfall traps based on sampling strategy and the movement of arthropods.Methods in Ecology and Evolution. ([Full text](https://doi.org/10.1111/2041-210X.14174))
+{28.} Ahmed, D.A., Beidas, A., ... **Hudgins, E.J.**, ... & Haase, P. Capture efficiency of pitfall traps based on sampling strategy and the movement of arthropods.Methods in Ecology and Evolution. ([Full text](https://doi.org/10.1111/2041-210X.14174))  
 
-{27.} Ahmed, D.A., Haubrock, P.J., Cuthbert, R.N. ..., **Hudgins, E.J.**, ..., & Courchamp, F. (2023) Recent advances in availability and synthesis of the economic costs of biological invasions. Bioscience  biad060, ([Full text](https://doi.org/10.1093/biosci/biad06))
+{27.} Ahmed, D.A., Haubrock, P.J., Cuthbert, R.N. ..., **Hudgins, E.J.**, ..., & Courchamp, F. (2023) Recent advances in availability and synthesis of the economic costs of biological invasions. Bioscience  biad060, ([Full text](https://doi.org/10.1093/biosci/biad06))  
 
-{26.} Fernandez, R.D., Haubrock, P.J., Cuthbert, R.N., Heringer, G., Kourantidou, M., **Hudgins, E.J.**, Angulo, E., Diagne, C.A., Courchamp, F., & Nuñez, M.A. (2023) Underexplored and growing economic costs of invasive alien trees. Scientific Reports 13 (1), 8945, ([Full text](https://doi.org/10.1038/s41598-023-35802-4))
+{26.} Fernandez, R.D., Haubrock, P.J., Cuthbert, R.N., Heringer, G., Kourantidou, M., **Hudgins, E.J.**, Angulo, E., Diagne, C.A., Courchamp, F., & Nuñez, M.A. (2023) Underexplored and growing economic costs of invasive alien trees. Scientific Reports 13 (1), 8945, ([Full text](https://doi.org/10.1038/s41598-023-35802-4))  
 
-{25.} Soto, I., …., **Hudgins, E.J.**, & Briski, E. (2023). The faunal Ponto-Caspianization of European Waterways. Biological Invasions 25, 2613–2629, ([Full text](https://doi.org/10.1007/s10530-023-03060-0))
+{25.} Soto, I., …., **Hudgins, E.J.**, & Briski, E. (2023). The faunal Ponto-Caspianization of European Waterways. Biological Invasions 25, 2613–2629, ([Full text](https://doi.org/10.1007/s10530-023-03060-0))  
 
 {24.} Braga, P. H. P., Hébert, K., **Hudgins, E. J.**, Scott, E. R., Edwards, B., Sánchez-Reyes, L. L., … , & Crystal-Ornelas, R. (2023). Not just for programmers: How GitHub can accelerate collaborative and reproducible research in ecology and evolution.  Methods in Ecology and Evolution 14 (6), 1364-1380. ([Full text](https://doi.org/10.1111/2041-210X.14108))
 
@@ -90,11 +95,21 @@ order: 5
 
 **Oral Presentations**
 
-**Hudgins, E.J.**, Management priorities to limit the impacts of Emerald Ash Borer on US street trees Presented at the Western EAB Cooperators Meeting, 29 March 2024. Invited presentation.
+* **Hudgins, EJ**. Optimal management to slow the spread of North American forest insects and pathogens. Presented at the Ecological Society of Australia Annual Conference, Melbourne, Australia, 12 December 2024.
 
-**Hudgins, E.J.**, Using Spatial Information to Protect our Environment, 18 March 2024. Arthur Rylah Institute Seminar. Invited presentation.
+* **Hudgins, EJ**, MacQuarrie, CJK, & Yemshanov, D. Forecasting and optimally managing the spread of invasive forest pests. Presented at the Australian Biosecurity Symposium, Gold Coast, Australia, 27 August 2024. 
+ 
+* **Hudgins, EJ**, MacQuarrie, CJK, & Yemshanov, D. Forecasting invasion patterns to minimize the impacts of invasive forest insects and pathogens at large scales. Presented at the IUFRO World Congress 2024, Stockholm, Sweden, 26 June 2024. Invited presentation.
+ 
+* **Hudgins, EJ**, MacQuarrie, CJK, & Yemshanov, D. Forecasting invasion patterns to minimize the impacts of invasive forest insects and pathogens at large scales. Seminar presented to the CREAF lab at the University of Barcelona, 19 June 2024. Invited presentation.
+
+* **Hudgins, E.J.**, Management priorities to limit the impacts of Emerald Ash Borer on US street trees Presented at the Western EAB Cooperators Meeting, 29 March 2024. Invited presentation.
+
+* **Hudgins, E.J.**, Management priorities to limit the impacts of Emerald Ash Borer on US street trees Presented at the Western EAB Cooperators Meeting, 29 March 2024. Invited presentation.
+
+* **Hudgins, E.J.**, Using Spatial Information to Protect our Environment, 18 March 2024. Arthur Rylah Institute Seminar. Invited presentation.
  
-**Hudgins, E.J.**, Spread management priorities to limit Emerald Ash Borer Impacts to US Street Trees. Science Early Career Research Summit, 20 February 2024. Winner - best oral presentation.
+* **Hudgins, E.J.**, Spread management priorities to limit Emerald Ash Borer Impacts to US Street Trees. Science Early Career Research Summit, 20 February 2024. Winner - best oral presentation.
 
 * **Hudgins, E.J.**. North American forest invader spread, impacts, and management priorities for urban resilience. Presented at the Australian Department of Agriculture, Fisheries, and Forestry Plant Health Division Meeting, March 29th, 2023.
 
