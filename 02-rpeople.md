@@ -47,6 +47,13 @@ Steven Myburgh is a PhD researcher conducting a socio-ecological systems modelli
 
 Steven's academic interests include: interactions between global change drivers; biodiversity implications of habitat fragmentation and conservation in managed landscapes; implementation of multilateral environmental agreements and transdisciplinary research for sustainability. In his spare time, Steven likes food gardening, going on food adventures around Melbourne, learning new (and exotic) musical instruments and taking advantage of Victoria's natural assets by getting out into nature.
 
+## Luca Reading - MEnv Student (co-supervised by Dr. Billy Geary)
+<img src="/assets/Luca.jpg" alt="Luca on a hike" class="center-fit" width="500">
+
+Luca Reading is in the second year of a Master of Environment degree at the University of Melbourne. While studying a Bachelor of Science with a major in Physics at Unimelb, Luca developed a keen interest in ecology. In particular, the impact of invasive species on Australia's native flora and fauna. This year, he joins the QAEco group at Unimelb under the supervision of Dr. Emma J. Hudgins and Dr. Billy Geary. Luca's research will focus on using spatial modelling and trait-based analyses to predict the potential impact of high-risk forest pest incursions on Australia's most vulnerable forest mammals. 
+
+Outside of the university setting, Luca works as a high-school science tutor and science educator and is passionate about science communication. He also enjoys cycling, hiking, making noise on the drums and baking sourdough.
+
 ## Lucia Valdes Saucedo - PhD Student (co-supervised by Prof. Michael McCarthy)
 
 <img src="/assets/Lucia.png" alt="Lucia on a hike with her dog (Duke)" class="center-fit" width="500">
