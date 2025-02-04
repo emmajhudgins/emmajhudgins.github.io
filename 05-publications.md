@@ -22,14 +22,14 @@ order: 5
 
 {34.} Bennett, J.R., Edwards, B.P.M,  Bergman, J.N., Binley, A.D., Buxton, R.T., Hanna, D.E.L, …, **Hudgins, E.J.** …, & Rytwinski, T. How ignoring detection probability hurts biodiversity conservation. Frontiers in Ecology and the Environment 22(8), e2782. ([full text](https://doi.org/10.1002/fee.2782))  
   
-{33.} Haubrock, P.J., Soto, I., Ahmed, D.A., Ansari, A., Tarkan, A.S., Kurtul, I., ..., **Hudgins, E.J.**, ... Cuthbert, R. N. Invasions are a population-level rather than a species-level phenomenon. Global Change Biology 30(5), e17312. ([full text]()https://doi.org/10.1111/gcb.17312) 
+{33.} Haubrock, P.J., Soto, I., Ahmed, D.A., Ansari, A., Tarkan, A.S., Kurtul, I., ..., **Hudgins, E.J.**, ... Cuthbert, R. N. Invasions are a population-level rather than a species-level phenomenon. Global Change Biology 30(5), e17312. ([full text]()https://doi.org/10.1111/gcb.17312)  
   
 {32.} Haubrock, P. J., Cuthbert, R. N., Balzani, P., Briski, E., Cano-Barbacil, C., De Santis, V., **Hudgins, E.J.**, ... & Tarkan, A. S. (2024). Discrepancies between non-native and invasive species classifications. Biological Invasions, 26(2), 371-384. ([full text](https://doi.org/10.1007/s10530-023-03184-3))   
  
-{31.} Soto, I., Balzani, P., Oficialdegui, F. J., Molinero, C., Kouba, A., Ahmed, D. A., …, **Hudgins, E. J.**, … , & Haubrock, P.J. (2024). The wild cost of invasive feral animals worldwide. Science of the Total Environment, 912, 169281, https://doi.org/10.1016/j.scitotenv.2023.169281   
+{31.} Soto, I., Balzani, P., Oficialdegui, F. J., Molinero, C., Kouba, A., Ahmed, D. A., …, **Hudgins, E. J.**, … , & Haubrock, P.J. (2024). The wild cost of invasive feral animals worldwide. Science of the Total Environment, 912, 169281, ([full text](https://doi.org/10.1016/j.scitotenv.2023.169281))  
   
 {30.} Bradshaw, C.J.A, Hulme, P.E.,**Hudgins, E.J.**, Leung, B., Kourantidou, M., Courtois, P., Turbelin, A.J., McDermott, S.M., Lee, K., Ahmed, D.A., Latombe, G., Bang, A., Bodey, T.W., Haubrock, P.J., Saltré, F., & Courchamp, F. (2024). Weaker economies experience higher relative damage costs arising from biological invasions. Ecological Economics 220, 108166. ([full text](https://doi.org/10.1016/j.ecolecon.2024.108166))  
-
+ 
 {29.} **Hudgins, E.J.**, Hanson, J.O., MacQuarrie, C.K., Yemshanov,D., Baker, C., Holden, M.H., McDonald-Madden, E., & Bennett, J. R. (2024). Spread management priorities to limit emerald ash borer (Agrilus planipennis) impacts on United States street trees. Conservation Science and Practice e13087. ([full text](https://doi.org/10.1111/csp2.13087))  
 
 {28.} Ahmed, D.A., Beidas, A., ... **Hudgins, E.J.**, ... & Haase, P. Capture efficiency of pitfall traps based on sampling strategy and the movement of arthropods.Methods in Ecology and Evolution. ([Full text](https://doi.org/10.1111/2041-210X.14174))  
