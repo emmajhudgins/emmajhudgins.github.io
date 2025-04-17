@@ -12,7 +12,7 @@ order: 2
 
 ## Erik Alonso - PhD Student
 
-<img src="/assets/Erik.jpeg" alt="Justin along a beach" class="center-fit" width="500">
+<img src="/assets/Erik.jpg" alt="Erik in front of some mountains" class="center-fit" width="500">
 
 Erik's project is based around developing biosecurity best practices for the edible insect industry, funded by AgriFutures. The project aims to develop guidelines for best practice at the rearing and transport stages and develop suitability models to understand risk areas. Erik has a background in GIS with some experience with modelling. Erik has worked for Vic Government for the past 5 years or so, mostly with DEECA, but also in the emergency management space.
 
