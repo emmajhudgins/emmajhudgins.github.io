@@ -8,7 +8,11 @@ order: 1
 
 ---
 
+# Open calls for students
 
+<img src="assets/phd_ad.pdf" alt="Phd advertisement with QR code for more information" class="center-fit">
+<figcaption> Open call for a fully dunded PhD studentship </figcaption>
+<br><br>
 
 
 # Possible project ideas
