@@ -10,7 +10,7 @@ order: 1
 
 # Open calls for students
 
-<img src="assets/phd_ad.pdf" alt="Phd advertisement with QR code for more information" class="center-fit">
+<img src="assets/phd_ad.png" alt="Phd advertisement with QR code for more information" class="center-fit">
 <figcaption> Open call for a fully funded PhD studentship </figcaption>
 <br><br>
 
