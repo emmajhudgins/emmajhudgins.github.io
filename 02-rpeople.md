@@ -8,6 +8,14 @@ order: 2
 
 ---
 
+<img src="assets/team_pic.jpg" alt="my team in May 2025 visiting the Yarra Bend fruit bat colony (back row from left to right, Ruiting Qian, Luping Zhang, Lucia Valdes Saucedo, Nande Notyalwa, Alex Muljadi, Justin Kreller, Erik Alonso. front row from left to right: Emma Hudgins, Luca Reading)" class="center-fit">
+<figcaption> My team in May 2025 visiting the Yarra Bend fruit bat colony (back row from left to right, Ruiting Qian, Luping Zhang, Lucia Valdes Saucedo, Nande Notyalwa, Alex Muljadi, Justin Kreller, Erik Alonso. front row from left to right: Emma Hudgins, Luca Reading)</figcaption>
+<br><br>
+
+<img src="assets/conf_pic.jpg" alt="three people smiling" class="center-fit">
+<figcaption> Team members at the International Conference for Conservation Biology in Brisbane, June 2025. (from left to right: Justin Kreller, Alex Mujaldi, Emma Hudgins)</figcaption>
+<br><br>
+
 # Current Students
 
 ## Erik Alonso - PhD Student
