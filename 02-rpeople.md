@@ -36,12 +36,6 @@ Like most biology students, Justin enjoys being outdoors and performing fieldwor
 Outside of school and work, Justin can be found practicing sports, birding, camping/hiking, reading, enjoying music, or walking his sweet German shepherd, Atlas. 
 
 
-## Ruiting Qian - MEnvSci Student
-
-I’m a 2nd-year Master of Environmental Science student. I did my undergraduate degree in Environmental Science as well here at Melbourne Uni. My interest in environmental conservation and climate change began during my undergraduate studies and has continued to grow throughout my master’s program. I’ve also learned some coding skills and am keen to incorporate both aspects into my studies and research. In my spare time, I enjoy playing and listening to music, as well as playing video games. 
-
-*Ruiting's project involves modelling the spread of Myrtle Rust into Melbourne*
-
 ## Alex Muljadi - MSc Student (co-supervised by Prof. Margaret Mayfield)
 
 <img src="/assets/Alex.jpeg" alt="Alex on a hike" class="center-fit" width="500">
@@ -94,4 +88,6 @@ Luping enjoys bush walking, cycling along the coast, classical music, and browsi
 
 # Past Students
 
-## Jannie (Thu Trang) Phan – MEnv Literature Review Student (co-supervised with Prof. Michael McCarthy) 
+## Jannie (Thu Trang) Phan – MEnv Literature Review Student (co-supervised with Prof. Michael McCarthy) - bushfire impacts on freshwater biodiversity
+
+## Ruiting Qian - MEnvSci Student - modelling the spread of Myrtle Rust into Melbourne
