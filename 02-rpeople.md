@@ -58,7 +58,8 @@ Steven's academic interests include: interactions between global change drivers;
 ## Nande Notyalwa - PhD Student (primary supervisor: Margaret Mayfield, co-supervisor: Dr. Malyon Bimler)
 
 ## Haode Peng - MEnv Student
-<img src="/assets/Haode.jpg" alt="Haode at a restaurant" class="center-fit" width="500">
+<img src="/assets/Haode.jpg" alt="Haode at a restaurant" class="center-fit" width="500"> 
+
 My name is Haode, and I am a current Master of Environment student. Finishing my bachelor's majoring in Environmental Science, I explored the competition between freshwater algae and wetland plants. I enjoy working both in the field and the lab. My main interest is in Nature-Based Solutions for a sustainable city and region. I am currently conducting research with Emma to investigate the causes of stress symptoms in urban trees. In my spare time, I learn about exercise science and nutrition. Besides working, I have multiple hobbies, including basketball, jogging, photography, and cooking.
 
 ## Luca Reading - MEnv Student (co-supervised by Dr. Billy Geary)
