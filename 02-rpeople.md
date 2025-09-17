@@ -61,6 +61,12 @@ Steven Myburgh is a PhD researcher conducting a socio-ecological systems modelli
 
 Steven's academic interests include: interactions between global change drivers; biodiversity implications of habitat fragmentation and conservation in managed landscapes; implementation of multilateral environmental agreements and transdisciplinary research for sustainability. In his spare time, Steven likes food gardening, going on food adventures around Melbourne, learning new (and exotic) musical instruments and taking advantage of Victoria's natural assets by getting out into nature.
 
+## Nande Notyalwa - PhD Student (primary supervisor: Margaret Mayfield, co-supervisor: Dr. Malyon Bimler)
+
+## Haode Peng - MEnv Student
+<img src="/assets/Haode.jpg" alt="Haode at a restaurant" class="center-fit" width="500">
+My name is Haode, and I am a current Master of Environment student. Finishing my bachelor's majoring in Environmental Science, I explored the competition between freshwater algae and wetland plants. I enjoy working both in the field and the lab. My main interest is in Nature-Based Solutions for a sustainable city and region. I am currently conducting research with Emma to investigate the causes of stress symptoms in urban trees. In my spare time, I learn about exercise science and nutrition. Besides working, I have multiple hobbies, including basketball, jogging, photography, and cooking.
+
 ## Luca Reading - MEnv Student (co-supervised by Dr. Billy Geary)
 <img src="/assets/Luca.jpg" alt="Luca on a hike" class="center-fit" width="500">
 
